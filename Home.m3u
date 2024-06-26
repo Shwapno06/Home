@@ -1,25 +1,36 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: STAR JALSHA" tvg-logo="" group-title="AS BANGLA",BANGLA: STAR JALSHA
+http://sansat.net:25461/02028857936892/0751169096/100642
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: COLORS BANGLA" tvg-logo="" group-title="AS BANGLA",BANGLA: COLORS BANGLA
+http://sansat.net:25461/02028857936892/0751169096/100665
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: COLORS BANGLA" tvg-logo="" group-title="AS BANGLA",BANGLA: COLORS BANGLA
 http://sansat.net:25461/02028857936892/0751169096/100639
 #EXTINF:-1 tvg-ID="" tvg-name="BANGLA: ZEE 24 GHANTA" tvg-logo="" group-title="AS BANGLA",BANGLA: ZEE 24 GHANTA
 http://sansat.net:25461/02028857936892/0751169096/100640
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: JALSHA MOVIES" tvg-logo="" group-title="AS BANGLA",BANGLA: JALSHA MOVIES
-http://sansat.net:25461/02028857936892/0751169096/100641
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: STAR JALSHA" tvg-logo="" group-title="AS BANGLA",BANGLA: STAR JALSHA
-http://sansat.net:25461/02028857936892/0751169096/100642
 #EXTINF:-1 tvg-ID="" tvg-name="BANGLA: AAKAASH BANGLA" tvg-logo="" group-title="AS BANGLA",BANGLA: AAKAASH BANGLA
 http://sansat.net:25461/02028857936892/0751169096/100643
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: ABP ANANDA" tvg-logo="" group-title="AS BANGLA",BANGLA: ABP ANANDA
+http://sansat.net:25461/02028857936892/0751169096/100646
+
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: JALSHA MOVIES" tvg-logo="" group-title="AS BANGLA",BANGLA: JALSHA MOVIES
+http://sansat.net:25461/02028857936892/0751169096/100641
+
+
 #EXTINF:-1 tvg-ID="" tvg-name="BANGLA: TITASH TV" tvg-logo="" group-title="AS BANGLA",BANGLA: TITASH TV
 http://sansat.net:25461/02028857936892/0751169096/100644
 #EXTINF:-1 tvg-ID="" tvg-name="BANGLA: NAGORIK TV" tvg-logo="" group-title="AS BANGLA",BANGLA: NAGORIK TV
 http://sansat.net:25461/02028857936892/0751169096/100645
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: ABP ANANDA" tvg-logo="" group-title="AS BANGLA",BANGLA: ABP ANANDA
-http://sansat.net:25461/02028857936892/0751169096/100646
+
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: BTV" tvg-logo="" group-title="AS BANGLA",BANGLA: BTV
+http://sansat.net:25461/02028857936892/0751169096/100659
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: BTV WORLD" tvg-logo="" group-title="AS BANGLA",BANGLA: BTV WORLD
+http://sansat.net:25461/02028857936892/0751169096/100658
 #EXTINF:-1 tvg-ID="" tvg-name="BANGLA: ATN BANGLA" tvg-logo="" group-title="AS BANGLA",BANGLA: ATN BANGLA
 http://sansat.net:25461/02028857936892/0751169096/100648
 #EXTINF:-1 tvg-ID="" tvg-name="BANGLA: ATN NEWS" tvg-logo="" group-title="AS BANGLA",BANGLA: ATN NEWS
 http://sansat.net:25461/02028857936892/0751169096/100650
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: BANGLA ETV" tvg-logo="" group-title="AS BANGLA",BANGLA: BANGLA ETV
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: BANGLA ETV" tvg-logo="" group-title="AS BANGLA",BANGLA: ETV BANGLA
 http://sansat.net:25461/02028857936892/0751169096/100651
 #EXTINF:-1 tvg-ID="" tvg-name="BANGLA: BIJOY TV" tvg-logo="" group-title="AS BANGLA",BANGLA: BIJOY TV
 http://sansat.net:25461/02028857936892/0751169096/100655
@@ -27,22 +38,16 @@ http://sansat.net:25461/02028857936892/0751169096/100655
 http://sansat.net:25461/02028857936892/0751169096/100656
 #EXTINF:-1 tvg-ID="" tvg-name="BANGLA: BOISHAKHI TV" tvg-logo="" group-title="AS BANGLA",BANGLA: BOISHAKHI TV
 http://sansat.net:25461/02028857936892/0751169096/100657
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: BTV WORLD" tvg-logo="" group-title="AS BANGLA",BANGLA: BTV WORLD
-http://sansat.net:25461/02028857936892/0751169096/100658
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: BTV" tvg-logo="" group-title="AS BANGLA",BANGLA: BTV
-http://sansat.net:25461/02028857936892/0751169096/100659
 #EXTINF:-1 tvg-ID="" tvg-name="BANGLA: CHANNEL 9" tvg-logo="" group-title="AS BANGLA",BANGLA: CHANNEL 9
 http://sansat.net:25461/02028857936892/0751169096/100661
 #EXTINF:-1 tvg-ID="" tvg-name="BANGLA: CHANNEL I" tvg-logo="" group-title="AS BANGLA",BANGLA: CHANNEL I
 http://sansat.net:25461/02028857936892/0751169096/100663
 #EXTINF:-1 tvg-ID="" tvg-name="BANGLA: CHANNEL S" tvg-logo="" group-title="AS BANGLA",BANGLA: CHANNEL S
 http://sansat.net:25461/02028857936892/0751169096/100664
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: COLORS BANGLA" tvg-logo="" group-title="AS BANGLA",BANGLA: COLORS BANGLA
-http://sansat.net:25461/02028857936892/0751169096/100665
 #EXTINF:-1 tvg-ID="" tvg-name="BANGLA: DBC NEWS" tvg-logo="" group-title="AS BANGLA",BANGLA: DBC NEWS
 http://sansat.net:25461/02028857936892/0751169096/100666
 #EXTINF:-1 tvg-ID="" tvg-name="BANGLA: DD BANGLA" tvg-logo="" group-title="AS BANGLA",BANGLA: DD BANGLA
-http://sansat.net:25461/02028857936892/0751169096/100667
+http://sansat.net:25461/02028857936892/0751169096/100667h
 #EXTINF:-1 tvg-ID="" tvg-name="BANGLA: DESH TV" tvg-logo="" group-title="AS BANGLA",BANGLA: DESH TV
 http://sansat.net:25461/02028857936892/0751169096/100668
 #EXTINF:-1 tvg-ID="" tvg-name="BANGLA: DESHE BIDESHE TV" tvg-logo="" group-title="AS BANGLA",BANGLA: DESHE BIDESHE TV
