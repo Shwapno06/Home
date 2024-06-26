@@ -1,15 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="I779.72738.schedulesdirect.org" tvg-logo=""200.png" group-title="Bangla",Colors Bangla-USA 
-https://allinonereborn.in/allinone.php?id=45634
-#EXTINF:-1 tvg-id="" tvg-logo=""896.png" group-title="Bangla",Colors Bangla 
-https://allinonereborn.in/allinone.php?id=45649
-#EXTINF:-1 tvg-id="" tvg-logo=""921 group-title="Bangla",Star Jalsha Movies 
-https://allinonereborn.in/allinone.php?id=33659
-#EXTINF:-1 tvg-id="" tvg-logo=""774 group-title="Bangla",Zee Bangla Cinema 
-https://allinonereborn.in/allinone.php?id=56727
-#EXTINF:-1 tvg-id="" tvg-logo=""2242 group-title="Bangla",Sun TV Bangla 
-https://allinonereborn.in/allinone.php?id=56723
+
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: STAR JALSHA" tvg-logo="" group-title="AS BANGLA",BANGLA: STAR JALSHA
+http://sansat.net:25461/02028857936892/0751169096/100642
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: STAR JALSHA HD" tvg-logo="" group-title="AS BANGLA",BANGLA: STAR JALSHA HD
+http://sansat.net:25461/02028857936892/0751169096/100722
 #EXTINF:-1 tvg-id="starjalsha.in" tvg-logo=""1090 group-title="Bangla",Star Jalsha 
 https://allinonereborn.in/allinone.php?id=54161
 #EXTINF:-1 tvg-id="starjalsha.in" tvg-logo=""1139 group-title="Bangla",Star Jalsha-USA 
@@ -18,6 +13,10 @@ https://allinonereborn.in/allinone.php?id=55387
 https://allinonereborn.in/allinone.php?id=53734
 #EXTINF:-1 tvg-id="starjalsha.in" tvg-logo=""3019 group-title="Bangla",Star Jalsha UK 
 https://allinonereborn.in/allinone.php?id=56878
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: ZEE BANGLA" tvg-logo="" group-title="AS BANGLA",BANGLA: ZEE BANGLA
+http://sansat.net:25461/02028857936892/0751169096/100707
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: ZEE BANGLA HD" tvg-logo="" group-title="AS BANGLA",BANGLA: ZEE BANGLA HD
+http://sansat.net:25461/02028857936892/0751169096/100716
 #EXTINF:-1 tvg-id="zeebanglahd.in" tvg-logo=""725.png" group-title="Bangla",Zee Bangla-USA 
 https://allinonereborn.in/allinone.php?id=55602
 #EXTINF:-1 tvg-id="zeebanglahd.in" tvg-logo=""4978 group-title="Bangla",Zee Bangla HD -India 1 
@@ -26,31 +25,28 @@ https://allinonereborn.in/allinone.php?id=57961
 https://allinonereborn.in/allinone.php?id=56934
 #EXTINF:-1 tvg-id="zeebanglahd.in" tvg-logo=""5267.png" group-title="Bangla",Zee Bangla UK 
 https://allinonereborn.in/allinone.php?id=57943
-#EXTINF:-1 tvg-id="I781.68253.schedulesdirect.org" tvg-logo=""592 group-title="Bangla",Sony Aath 
-https://allinonereborn.in/allinone.php?id=49609
-#EXTINF:-1 tvg-id="" tvg-logo=""627.png" group-title="Bangla",Aakaash 
-https://allinonereborn.in/allinone.php?id=45704
-
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: STAR JALSHA" tvg-logo="" group-title="AS BANGLA",BANGLA: STAR JALSHA
-http://sansat.net:25461/02028857936892/0751169096/100642
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: STAR JALSHA HD" tvg-logo="" group-title="AS BANGLA",BANGLA: STAR JALSHA HD
-http://sansat.net:25461/02028857936892/0751169096/100722
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: ZEE BANGLA" tvg-logo="" group-title="AS BANGLA",BANGLA: ZEE BANGLA
-http://sansat.net:25461/02028857936892/0751169096/100707
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: ZEE BANGLA HD" tvg-logo="" group-title="AS BANGLA",BANGLA: ZEE BANGLA HD
-http://sansat.net:25461/02028857936892/0751169096/100716
+#EXTINF:-1 tvg-id="I779.72738.schedulesdirect.org" tvg-logo=""200.png" group-title="Bangla",Colors Bangla-USA 
+https://allinonereborn.in/allinone.php?id=45634
+#EXTINF:-1 tvg-id="" tvg-logo=""896.png" group-title="Bangla",Colors Bangla 
+https://allinonereborn.in/allinone.php?id=45649
 #EXTINF:-1 tvg-ID="" tvg-name="BANGLA: COLORS BANGLA" tvg-logo="" group-title="AS BANGLA",BANGLA: COLORS BANGLA
 http://sansat.net:25461/02028857936892/0751169096/100665
 #EXTINF:-1 tvg-ID="" tvg-name="BANGLA: COLORS BANGLA" tvg-logo="" group-title="AS BANGLA",BANGLA: COLORS BANGLA
 http://sansat.net:25461/02028857936892/0751169096/100639
 #EXTINF:-1 tvg-ID="" tvg-name="BANGLA: SONY AATH" tvg-logo="" group-title="AS BANGLA",BANGLA: SONY AATH
 http://sansat.net:25461/02028857936892/0751169096/100696
+#EXTINF:-1 tvg-id="I781.68253.schedulesdirect.org" tvg-logo=""592 group-title="Bangla",Sony Aath 
+https://allinonereborn.in/allinone.php?id=49609
 #EXTINF:-1 tvg-ID="" tvg-name="BANGLA: JALSHA MOVIES" tvg-logo="" group-title="AS BANGLA",BANGLA: JALSHA MOVIES
 http://sansat.net:25461/02028857936892/0751169096/100697
 #EXTINF:-1 tvg-ID="" tvg-name="BANGLA: JALSHA MOVIES" tvg-logo="" group-title="AS BANGLA",BANGLA: JALSHA MOVIES
 http://sansat.net:25461/02028857936892/0751169096/100641
+#EXTINF:-1 tvg-id="" tvg-logo=""921 group-title="Bangla",Star Jalsha Movies 
+https://allinonereborn.in/allinone.php?id=33659
 #EXTINF:-1 tvg-ID="" tvg-name="BANGLA: ZEE BANGLA CINEMA" tvg-logo="" group-title="AS BANGLA",BANGLA: ZEE BANGLA CINEMA
 http://sansat.net:25461/02028857936892/0751169096/100702
+#EXTINF:-1 tvg-id="" tvg-logo=""774 group-title="Bangla",Zee Bangla Cinema 
+https://allinonereborn.in/allinone.php?id=56727
 #EXTINF:-1 tvg-ID="" tvg-name="BANGLA: MOVIE BANGLA" tvg-logo="" group-title="AS BANGLA",BANGLA: MOVIE BANGLA
 http://sansat.net:25461/02028857936892/0751169096/100682
 #EXTINF:-1 tvg-ID="" tvg-name="BANGLA: BONGO MOVIES" tvg-logo="" group-title="AS BANGLA",BANGLA: BONGO MOVIES
@@ -59,16 +55,18 @@ http://sansat.net:25461/02028857936892/0751169096/100699
 http://sansat.net:25461/02028857936892/0751169096/100759
 #EXTINF:-1 tvg-ID="" tvg-name="BANGLA: SUN BANGLA" tvg-logo="" group-title="AS BANGLA",BANGLA: SUN BANGLA
 http://sansat.net:25461/02028857936892/0751169096/100754
+#EXTINF:-1 tvg-id="" tvg-logo=""2242 group-title="Bangla",Sun TV Bangla 
+https://allinonereborn.in/allinone.php?id=56723
 #EXTINF:-1 tvg-ID="" tvg-name="BANGLA: DESHI TV" tvg-logo="" group-title="AS BANGLA",BANGLA: DESHI TV
 http://sansat.net:25461/02028857936892/0751169096/100670
 #EXTINF:-1 tvg-ID="" tvg-name="BANGLA: ZEE 24 GHANTA" tvg-logo="" group-title="AS BANGLA",BANGLA: ZEE 24 GHANTA
 http://sansat.net:25461/02028857936892/0751169096/100640
+#EXTINF:-1 tvg-id="" tvg-logo=""627.png" group-title="Bangla",Aakaash 
+https://allinonereborn.in/allinone.php?id=45704
 #EXTINF:-1 tvg-ID="" tvg-name="BANGLA: AAKAASH BANGLA" tvg-logo="" group-title="AS BANGLA",BANGLA: AAKAASH BANGLA
 http://sansat.net:25461/02028857936892/0751169096/100643
 #EXTINF:-1 tvg-ID="" tvg-name="BANGLA: ABP ANANDA" tvg-logo="" group-title="AS BANGLA",BANGLA: ABP ANANDA
 http://sansat.net:25461/02028857936892/0751169096/100646
-
-
 
 #EXTINF:-1 tvg-ID="" tvg-name="BANGLA: TITASH TV" tvg-logo="" group-title="AS BANGLA",BANGLA: TITASH TV
 http://sansat.net:25461/02028857936892/0751169096/100644
