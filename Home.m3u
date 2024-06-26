@@ -2,12 +2,22 @@
 
 #EXTINF:-1 tvg-ID="" tvg-name="BANGLA: STAR JALSHA" tvg-logo="" group-title="AS BANGLA",BANGLA: STAR JALSHA
 http://sansat.net:25461/02028857936892/0751169096/100642
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: STAR JALSHA HD" tvg-logo="" group-title="AS BANGLA",BANGLA: STAR JALSHA HD
+http://sansat.net:25461/02028857936892/0751169096/100722
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: ZEE BANGLA" tvg-logo="" group-title="AS BANGLA",BANGLA: ZEE BANGLA
+http://sansat.net:25461/02028857936892/0751169096/100707
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: ZEE BANGLA HD" tvg-logo="" group-title="AS BANGLA",BANGLA: ZEE BANGLA HD
+http://sansat.net:25461/02028857936892/0751169096/100716
 #EXTINF:-1 tvg-ID="" tvg-name="BANGLA: COLORS BANGLA" tvg-logo="" group-title="AS BANGLA",BANGLA: COLORS BANGLA
 http://sansat.net:25461/02028857936892/0751169096/100665
 #EXTINF:-1 tvg-ID="" tvg-name="BANGLA: COLORS BANGLA" tvg-logo="" group-title="AS BANGLA",BANGLA: COLORS BANGLA
 http://sansat.net:25461/02028857936892/0751169096/100639
 #EXTINF:-1 tvg-ID="" tvg-name="BANGLA: SONY AATH" tvg-logo="" group-title="AS BANGLA",BANGLA: SONY AATH
 http://sansat.net:25461/02028857936892/0751169096/100696
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: ENTER 10 BANGLA" tvg-logo="" group-title="AS BANGLA",BANGLA: ENTER 10 BANGLA
+http://sansat.net:25461/02028857936892/0751169096/100759
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: SUN BANGLA" tvg-logo="" group-title="AS BANGLA",BANGLA: SUN BANGLA
+http://sansat.net:25461/02028857936892/0751169096/100754
 #EXTINF:-1 tvg-ID="" tvg-name="BANGLA: DESHI TV" tvg-logo="" group-title="AS BANGLA",BANGLA: DESHI TV
 http://sansat.net:25461/02028857936892/0751169096/100670
 #EXTINF:-1 tvg-ID="" tvg-name="BANGLA: ZEE 24 GHANTA" tvg-logo="" group-title="AS BANGLA",BANGLA: ZEE 24 GHANTA
@@ -113,20 +123,17 @@ http://sansat.net:25461/02028857936892/0751169096/100703
 http://sansat.net:25461/02028857936892/0751169096/100704
 #EXTINF:-1 tvg-ID="" tvg-name="BANGLA: NEWS 24 HD" tvg-logo="" group-title="AS BANGLA",BANGLA: NEWS 24 HD
 http://sansat.net:25461/02028857936892/0751169096/100706
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: ZEE BANGLA" tvg-logo="" group-title="AS BANGLA",BANGLA: ZEE BANGLA
-http://sansat.net:25461/02028857936892/0751169096/100707
+
 #EXTINF:-1 tvg-ID="" tvg-name="BANGLA: JAMUNA TV" tvg-logo="" group-title="AS BANGLA",BANGLA: JAMUNA TV
 http://sansat.net:25461/02028857936892/0751169096/100710
 #EXTINF:-1 tvg-ID="" tvg-name="BANGLA: RTV MUSIC" tvg-logo="" group-title="AS BANGLA",BANGLA: RTV MUSIC
 http://sansat.net:25461/02028857936892/0751169096/100711
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: ZEE BANGLA HD" tvg-logo="" group-title="AS BANGLA",BANGLA: ZEE BANGLA HD
-http://sansat.net:25461/02028857936892/0751169096/100716
+
 #EXTINF:-1 tvg-ID="" tvg-name="BANGLA: JONMOBHUMI TV" tvg-logo="" group-title="AS BANGLA",BANGLA: JONMOBHUMI TV
 http://sansat.net:25461/02028857936892/0751169096/100719
 #EXTINF:-1 tvg-ID="" tvg-name="BANGLA: MADANI TV BANGLA" tvg-logo="" group-title="AS BANGLA",BANGLA: MADANI TV BANGLA
 http://sansat.net:25461/02028857936892/0751169096/100720
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: STAR JALSHA HD" tvg-logo="" group-title="AS BANGLA",BANGLA: STAR JALSHA HD
-http://sansat.net:25461/02028857936892/0751169096/100722
+
 #EXTINF:-1 tvg-ID="" tvg-name="BANGLA: NANDAN TV HD" tvg-logo="" group-title="AS BANGLA",BANGLA: NANDAN TV HD
 http://sansat.net:25461/02028857936892/0751169096/100728
 #EXTINF:-1 tvg-ID="" tvg-name="BANGLA: ANANDA TV" tvg-logo="" group-title="AS BANGLA",BANGLA: ANANDA TV
@@ -139,14 +146,12 @@ http://sansat.net:25461/02028857936892/0751169096/100742
 http://sansat.net:25461/02028857936892/0751169096/100743
 #EXTINF:-1 tvg-ID="" tvg-name=" DISCOVERY HD BENGALI" tvg-logo="" group-title="AS BANGLA", DISCOVERY HD BENGALI
 http://sansat.net:25461/02028857936892/0751169096/100753
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: SUN BANGLA" tvg-logo="" group-title="AS BANGLA",BANGLA: SUN BANGLA
-http://sansat.net:25461/02028857936892/0751169096/100754
+
 #EXTINF:-1 tvg-ID="" tvg-name="BANGLA: TBN 24" tvg-logo="" group-title="AS BANGLA",BANGLA: TBN 24
 http://sansat.net:25461/02028857936892/0751169096/100756
 #EXTINF:-1 tvg-ID="" tvg-name="BANGLA: iTV UK" tvg-logo="" group-title="AS BANGLA",BANGLA: iTV UK
 http://sansat.net:25461/02028857936892/0751169096/100757
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: ENTER 10 BANGLA" tvg-logo="" group-title="AS BANGLA",BANGLA: ENTER 10 BANGLA
-http://sansat.net:25461/02028857936892/0751169096/100759
+
 #EXTINF:-1 tvg-ID="" tvg-name="BANGLA: CHANNEL TT" tvg-logo="" group-title="AS BANGLA",BANGLA: CHANNEL TT
 http://sansat.net:25461/02028857936892/0751169096/100760
 
