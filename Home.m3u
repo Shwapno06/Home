@@ -1,5 +1,36 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="I779.72738.schedulesdirect.org" tvg-logo=""200.png" group-title="Bangla",Colors Bangla-USA 
+https://allinonereborn.in/allinone.php?id=45634
+#EXTINF:-1 tvg-id="" tvg-logo=""896.png" group-title="Bangla",Colors Bangla 
+https://allinonereborn.in/allinone.php?id=45649
+#EXTINF:-1 tvg-id="" tvg-logo=""921 group-title="Bangla",Star Jalsha Movies 
+https://allinonereborn.in/allinone.php?id=33659
+#EXTINF:-1 tvg-id="" tvg-logo=""774 group-title="Bangla",Zee Bangla Cinema 
+https://allinonereborn.in/allinone.php?id=56727
+#EXTINF:-1 tvg-id="" tvg-logo=""2242 group-title="Bangla",Sun TV Bangla 
+https://allinonereborn.in/allinone.php?id=56723
+#EXTINF:-1 tvg-id="starjalsha.in" tvg-logo=""1090 group-title="Bangla",Star Jalsha 
+https://allinonereborn.in/allinone.php?id=54161
+#EXTINF:-1 tvg-id="starjalsha.in" tvg-logo=""1139 group-title="Bangla",Star Jalsha-USA 
+https://allinonereborn.in/allinone.php?id=55387
+#EXTINF:-1 tvg-id="starjalsha.in" tvg-logo=""2769 group-title="Bangla",Star Jalsha India 
+https://allinonereborn.in/allinone.php?id=53734
+#EXTINF:-1 tvg-id="starjalsha.in" tvg-logo=""3019 group-title="Bangla",Star Jalsha UK 
+https://allinonereborn.in/allinone.php?id=56878
+#EXTINF:-1 tvg-id="zeebanglahd.in" tvg-logo=""725.png" group-title="Bangla",Zee Bangla-USA 
+https://allinonereborn.in/allinone.php?id=55602
+#EXTINF:-1 tvg-id="zeebanglahd.in" tvg-logo=""4978 group-title="Bangla",Zee Bangla HD -India 1 
+https://allinonereborn.in/allinone.php?id=57961
+#EXTINF:-1 tvg-id="zeebanglahd.in" tvg-logo=""553 group-title="Bangla",Zee Bangla HD-India 2 
+https://allinonereborn.in/allinone.php?id=56934
+#EXTINF:-1 tvg-id="zeebanglahd.in" tvg-logo=""5267.png" group-title="Bangla",Zee Bangla UK 
+https://allinonereborn.in/allinone.php?id=57943
+#EXTINF:-1 tvg-id="I781.68253.schedulesdirect.org" tvg-logo=""592 group-title="Bangla",Sony Aath 
+https://allinonereborn.in/allinone.php?id=49609
+#EXTINF:-1 tvg-id="" tvg-logo=""627.png" group-title="Bangla",Aakaash 
+https://allinonereborn.in/allinone.php?id=45704
+
 #EXTINF:-1 tvg-ID="" tvg-name="BANGLA: STAR JALSHA" tvg-logo="" group-title="AS BANGLA",BANGLA: STAR JALSHA
 http://sansat.net:25461/02028857936892/0751169096/100642
 #EXTINF:-1 tvg-ID="" tvg-name="BANGLA: STAR JALSHA HD" tvg-logo="" group-title="AS BANGLA",BANGLA: STAR JALSHA HD
