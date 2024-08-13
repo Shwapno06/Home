@@ -1,757 +1,264 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="144" group-title="Voot" | Entertainment" tvg-language="Hindi" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/colors-hindi--16x9-1714557869344.jpg",Colors HD
-https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_ColorsHD/JCHLS/index.m3u8
-#EXTINF:-1 tvg-id="1370" group-title="Voot" | Entertainment" tvg-language="Hindi" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/collors-rishtey-live-channels-16x9-3-1642676080416-1674198105431-1697532377978.jpg",Rishtey
-https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_ColorsRishtey/JCHLS/index.m3u8
-#EXTINF:-1 tvg-id="756" group-title="Voot" | Entertainment" tvg-language="Bengali" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-bangla-new-16x9-4-1649659533344.jpg",Colors Bengla HD
-https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_ColorsBanglaHD/JCHLS/index.m3u8
-#EXTINF:-1 tvg-id="757" group-title="Voot" | Entertainment" tvg-language="Kannada" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-kannada-16x9-1677754085834.jpg",Colors Kannada HD
-https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_ColorsKannadaHD/JCHLS/index.m3u8
-#EXTINF:-1 tvg-id="755" group-title="Voot" | Entertainment" tvg-language="Marathi" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-marathi-live-channels-16x9-4-6-apr-1649257093359.jpg",Colors Marathi HD
-https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_ColorsMarathiHD/JCHLS/index.m3u8
-#EXTINF:-1 tvg-id="196" group-title="Voot" | Entertainment" tvg-language="Gujarati" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-gujarati-16x9-1713269620328.jpg",Colors Gujarati
-https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_ColorsGujarati/JCHLS/index.m3u8
-#EXTINF:-1 tvg-id="429" group-title="Voot" | Entertainment" tvg-language="Tamil" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/ct-1644165913136.jpg",Colors Tamil HD
-https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_ColorsTamilHD/JCHLS/index.m3u8
-#EXTINF:-1 tvg-id="198" group-title="Voot" | Entertainment" tvg-language="Odia" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-odia-live-channels-16x9-4-1642583679866.jpg",Colors Oriya
-https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_ColorsOriya/JCHLS/index.m3u8
-#EXTINF:-1 tvg-id="1158" group-title="Voot" | Entertainment" tvg-language="English" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-infinity-live-channels-16x9-1642496946057.jpg",Colors Infinity HD
-https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_ColorsInfinityHD/JCHLS/index.m3u8
-#EXTINF:-1 tvg-id="785" group-title="Voot" | Entertainment" tvg-language="Kannada" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-super-live-channels-16x9-4-1642744939924.jpg",Colors Super
-https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_ColorsSuperKannada/JCHLS/index.m3u8
-#EXTINF:-1 tvg-id="1477" group-title="Voot" | Movies" tvg-language="Hindi" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/Live-Tv-Channels-colors-cineplex-1607514413063.jpg",Colors Cineplex HD
-https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_ColorsCineplexHD/JCHLS/index.m3u8
-#EXTINF:-1 tvg-id="1450" group-title="Voot" | Movies" tvg-language="Hindi" tvg-logo="https://v3img.voot.com/resizeMedium,w_960,h_540/v3Storage/assets/colors-cineplex-superhit%2016x9-1648793655358.jpg",Colors Cineplex Superhit
-https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_RishteyCineplex/JCHLS/index.m3u8
-#EXTINF:-1 tvg-id="1763" group-title="Voot" | Movies" tvg-language="Hindi" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/cineplex-1713963820848.jpeg",Colors Cineplex Bollywood
-https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_ColorsCineplexBollywood/JCHLS/index.m3u8
-#EXTINF:-1 tvg-id="1632" group-title="Voot" | Movies" tvg-language="Kannada" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-kannada-cinema-16x9-1713963481807.jpg",Colors Kannada Cinema
-https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_ColorsKannadaCinema/JCHLS/index.m3u8
-#EXTINF:-1 tvg-id="1145" group-title="Voot" | Music" tvg-language="Hindi" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/mtv-16x9-1714316345624.jpg",MTV HD
-https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_MTVHD/JCHLS/index.m3u8
-#EXTINF:-1 tvg-id="753" group-title="Voot" | Music" tvg-language="Hindi" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/mtv-beats-live-channels-16x9-1642675874665.jpg",MTV Beats HD
-https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_MTVBeatsHD/JCHLS/index.m3u8
-#EXTINF:-1 tvg-id="544" group-title="Voot" | Kids" tvg-language="Hindi" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/nick-jr-16x9-2-1626708077243.jpg",Nick Junior
-https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_NickJr/JCHLS/index.m3u8
-#EXTINF:-1 tvg-id="1226" group-title="Voot" | Kids" tvg-language="English" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/nick-hd-plus-live-channels-16x9-4-1642585145139.jpg",Nick HD+
-https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_NickHD/JCHLS/index.m3u8
-#EXTINF:-1 tvg-id="815" group-title="Voot" | Kids" tvg-language="Hindi" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/sonic-16x9-2-1626707025539.jpg",Sonic
-https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_SonicNick/JCHLS/index.m3u8
-#EXTINF:-1 tvg-id="1226" group-title="Voot" | Sports" tvg-language="English" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/sports18_tray-1693930594270.jpg",SPORTS 18 HD
-https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_Sports18_1HD/JCHLS/index.m3u8
-#EXTINF:-1 tvg-id="1998" group-title="Voot" | Sports" tvg-language="Hindi" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/sports18_khel_tray-1693931658589.jpg",SPORTS 18 Khel
-https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="2000" group-title="Voot" | Sports" tvg-language="Hindi" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/jc_sports_horizontal_tray-1695561700528.jpg",JC Sports 24x7
-https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_Sports_24x7_IDC/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="2001" group-title="Voot" | Sports" tvg-language="English" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/sports_zone_cricket_horizontal-1695032322122.jpg",CricStream
-https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JV_SportsHD15_DIG_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="190" group-title="Voot" | Business" tvg-language="Hindi" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/cnbc-awaaz-16x9-1702387934761.jpg",CNBC Awaaz
-https://prod-sports-hin-fa.jiocinema.com/bpk-tv/CNBC_Awaaz_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="490" group-title="Voot" | Business" tvg-language="Gujarati" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/whatsapp16x9-1693491956187.jpg",CNBC Bazaar
-https://prod-sports-hin-fa.jiocinema.com/bpk-tv/CNBC_Bazaar_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="489" group-title="Voot" | Business" tvg-language="English" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/cnbc18-shereen-bhan-16x9-2-1693479472079.jpg",CNBC Tv 18
-https://prod-sports-hin-fa.jiocinema.com/bpk-tv/CNBC_TV18_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="231" group-title="Voot" | News" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png",News18 India
-https://prod-sports-hin-fa.jiocinema.com/bpk-tv/News18_India_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="492" group-title="Voot" | News" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNN_NEWS_18.png",CNN NEWS 18
-https://prod-sports-hin-fa.jiocinema.com/bpk-tv/CNN_News18_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="615" group-title="Voot" | News" tvg-language="Tamil" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Tamilnadu.png",News18 Tamilnadu
-https://prod-sports-hin-fa.jiocinema.com/bpk-tv/News18_Tamil_Nadu_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="232" group-title="Voot" | News" tvg-language="Marathi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_Lokmat.png",News18 Lokmat
-https://prod-sports-hin-fa.jiocinema.com/bpk-tv/News18_Lokmat_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="717" group-title="Voot" | News" tvg-language="Bengali" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Bangla_News.png",News18 Bangla News
-https://prod-sports-hin-fa.jiocinema.com/bpk-tv/News18_Bangla_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="653" group-title="Voot" | News" tvg-language="Kannada" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Kannada_News.png",News18 Kannada News
-https://prod-sports-hin-fa.jiocinema.com/bpk-tv/News18_Kannada_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="620" group-title="Voot" | News" tvg-language="Gujarati" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_News_Gujarati.png",News18 Gujarati
-https://prod-sports-hin-fa.jiocinema.com/bpk-tv/News18_Gujarati_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="655" group-title="Voot" | News" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Haryana_and_HP_News.png",News18 Punjab Haryana
-https://prod-sports-hin-fa.jiocinema.com/bpk-tv/News18_Punjab_Haryana_HP_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="696" group-title="Voot" | News" tvg-language="Odia" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_News_Oriya.png",News18 Oriya
-https://prod-sports-hin-fa.jiocinema.com/bpk-tv/News18_Odia_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="627" group-title="Voot" | News" tvg-language="Assamese" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Assam.png",News18 Assam
-https://prod-sports-hin-fa.jiocinema.com/bpk-tv/News18_Assam_North_East_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="965" group-title="Voot" | News" tvg-language="Malayalam" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Kerala.png",News 18 Kerala
-https://prod-sports-hin-fa.jiocinema.com/bpk-tv/News18_Kerala_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="531" group-title="Voot" | News" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_RAJASTHAN.png",News18 RAJASTHAN
-https://prod-sports-hin-fa.jiocinema.com/bpk-tv/News18_Rajasthan_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="693" group-title="Voot" | News" tvg-language="Bhojpuri" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_BIHAR.png",News18 BIHAR
-https://prod-sports-hin-fa.jiocinema.com/bpk-tv/News18_Bihar_Jharkhand_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="529" group-title="Voot" | News" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_MP.png",News18 MP
-https://prod-sports-hin-fa.jiocinema.com/bpk-tv/News18_MP_Chhattisgarh_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="530" group-title="Voot" | News" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_UP.png",News18 UP
-https://prod-sports-hin-fa.jiocinema.com/bpk-tv/News18_UP_Uttarakhand_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-id="694" group-title="Voot" | News" tvg-language="Urdu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Urdu.png",News18 JKLH
-https://prod-sports-hin-fa.jiocinema.com/bpk-tv/News18_Urdu_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6rNftPN/20240813-112448.png" group-title="Entertainment", STAR JALSHA HD
+http://217.20.112.199/starjalshahd/index.m3u8
 
-#EXTINF:-1 tvg-id="I781.68253.schedulesdirect.org" tvg-logo=""592 group-title="Sony Liv",Sony Aath 
-https://allinonereborn.com/allinone.php?id=49609
-#EXTINF:-1 tvg-id="" tvg-logo=""6909.png" group-title="Sony Liv",Sony Six 
-https://allinonereborn.com/allinone.php?id=56332
-#EXTINF:-1 tvg-id="sonyyay.in" tvg-logo=""3073 group-title="Sony Liv",Sony Yay! India 
-https://allinonereborn.com/allinone.php?id=34198
-#EXTINF:-1 tvg-id="I695.18644.schedulesdirect.org" tvg-logo=""727 group-title="Sony Liv",Sony HD USA 
-https://allinonereborn.com/allinone.php?id=54661
-#EXTINF:-1 tvg-id="sonyhd.in" tvg-logo=""1531.png" group-title="Sony Liv",Sony HD-India #1 4K 
-https://allinonereborn.com/allinone.php?id=54736
-#EXTINF:-1 tvg-id="sonytv.uk" tvg-logo=""864 group-title="Sony Liv",Sony HD -UK 
-https://allinonereborn.com/allinone.php?id=55286
-#EXTINF:-1 tvg-id="sonysab.uk" tvg-logo=""3103.png" group-title="Sony Liv",SAB HD-UK 
-https://allinonereborn.com/allinone.php?id=34448
-#EXTINF:-1 tvg-id="sonysab.in" tvg-logo=""865.png" group-title="Sony Liv",SAB HD India 4K 
-https://allinonereborn.com/allinone.php?id=54706
-#EXTINF:-1 tvg-id="sonypixhd.in" tvg-logo=""1126 group-title="Sony Liv",Sony Pix HD 
-https://allinonereborn.com/allinone.php?id=14426
-#EXTINF:-1 tvg-id="sonymax.in" tvg-logo=""3143.png" group-title="Sony Liv",Set Max-India #1 
-https://allinonereborn.com/allinone.php?id=53144
-#EXTINF:-1 tvg-id="sonymax.in" tvg-logo=""974.png" group-title="Sony Liv",Set Max-India #2 
-https://allinonereborn.com/allinone.php?id=30484
-#EXTINF:-1 tvg-id="sonymax2.in" tvg-logo=""621 group-title="Sony Liv",Sony Max 2 
-https://allinonereborn.com/allinone.php?id=50814
-#EXTINF:-1 tvg-id=""Sony Wah">Sony Wah" tvg-logo=""3618 group-title="Sony Liv",Sony Wah 
-https://allinonereborn.com/allinone.php?id=46629
-#EXTINF:-1 tvg-id="Sony Pal" tvg-logo=""1128 group-title="Sony Liv",Sony Pal 
-https://allinonereborn.com/allinone.php?id=53139
-#EXTINF:-1 tvg-id="sonybbcearth.in" tvg-logo=""3358 group-title="Sony Liv",BBC Earth HD-India 
-https://allinonereborn.com/allinone.php?id=56775
-#EXTINF:-1 tvg-id="sonypixhd.in" tvg-logo=""3138 group-title="Sony Liv",Sony Pix HD-India 
-https://allinonereborn.com/allinone.php?id=56783
-#EXTINF:-1 tvg-id="" tvg-logo=""" group-title="Gujrati & Sony",Sony Marathi 
-https://allinonereborn.com/allinone.php?id=55106
-#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-logo=""1286 group-title="Sony Liv",TEN 1 HD 
-https://allinonereborn.com/allinone.php?id=46719
-#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-logo=""1061.png" group-title="Sony Liv",TEN2 HD 
-https://allinonereborn.com/allinone.php?id=47904
-#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-logo=""3058.png" group-title="Sony Liv",TEN3 HD 
-https://allinonereborn.com/allinone.php?id=47909
-#EXTINF:-1 tvg-id="sonysixhd.in" tvg-logo=""1465.png" group-title="Sony Liv",Sony Six HD 
-https://allinonereborn.com/allinone.php?id=34193
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VQhCpkh/20240803-102008.png" group-title="Entertainment", STAR JALSHA FHD
+http://103.151.60.174/manikvai@hoichoi24.com
+
+#EXTINF:-1 tvg-id="625" tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/zee-bangla.png" group-Bengali;"Entertainment",Zee Bangla
+https://jio.dinesh29.com.np/live/jio-universal/zee-bangla/index.ts
+
+#EXTINF:-1 tvg-id="1977" tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/zee-bangla-hd.png" group-Bengali;"Entertainment",Zee Bangla HD
+https://jio.dinesh29.com.np/live/jio-universal/zee-bangla-hd/index.ts
+
+#EXTINF:-1 tvg-id="625" tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/zee-bangla.png" group-Bengali;"Entertainment",Zee Bangla HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla1/default/zeebangla1-audio_208482_und=208000-video=2137600.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SN5NbMy/20240803-101952.png" group-title="Entertainment", ZEE BANGLA FHD
+http://217.20.112.199/zeebangla/index.m3u8
+
+#EXTINF:-1 tvg-id="144" tvg-logo="https://jiocinema.dinesh29.com.np/smart/ardinesh/logos/colors-hd.jpg" group-title="Entertainment",Colors Bengla
+https://jiocinema.dinesh29.com.np/live/jiocinema-universal/colors-hd/index.ts
+
+#EXTINF:-1 tvg-id="756" tvg-logo="https://jiocinema.dinesh29.com.np/smart/ardinesh/logos/colors-bengla-hd.jpg" group-title="Entertainment",Colors Bengla HD
+https://jiocinema.dinesh29.com.np/live/jiocinema-universal/colors-bengla-hd/index.ts
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Rzj28tJ/20240803-101916.png" group-title="Entertainment", COLORS BANGLA HD 
+http://217.20.112.199/colorsbangla/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Q8Y3PDz/20240803-101932.png" group-title="Entertainment", COLORS BANGLA FHD
+http://ekdilhai.pro/IN_ColorsBengali/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NF5M3vk/20240803-164348.png" group-title="Entertainment", COLORS BANGLA CINEMA 
+http://lifetvbd.xyz:8080/play/MJjp2AuZQlq-gE09eDufj0s9cQBOpsLnKRfE2Y-MDmY/ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PMRGhZT/20240803-102021.png" group-title="Entertainment", SONY AATH HD
+http://tv.cloudcdn.me/live.ts?channelId=44150&uid=13603&deviceMac=00:1A:79:64:B4:A6
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NLNGdr9/20240813-112520.png" group-title="Entertainment", JALSHA MOVIS SD 
+https://allinonereborn.com/tatatv.php?id=232265
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HPYdxKR/20240803-102328.png" group-title="Entertainment", JALSHA MOVIS HD
+http://humsab.xyz/IN_JALSHAMOVIES/index.m3u8
+
+#EXTINF:-1 tvg-id="685" tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/zee-bangla-cinema.png" group-title="Entertainment",Zee Bangla Cinema
+https://jio.dinesh29.com.np/live/jio-universal/zee-bangla-cinema/index.ts
+
+#EXTINF:-1 tvg-id="685" tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/zee-bangla-cinema.png" group-title="Entertainment",Zee Bangla Cinema
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2thQM7K/20240803-164328.png" group-title=group-title="Entertainment", SUN BANGLA
+https://fmrx.short.gy/bdixiptvhub/offline.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9p6gBtp/20240813-191607.png" group-title=group-title="Entertainment", BANGLA PLUS
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gVj1krz/20240812-184023.png" group-title=group-title="Entertainment", DD BANGLA
+http://lifetvbd.xyz:8080/play/MJjp2AuZQlq-gE09eDufj2lBY_ZX-Fs7MG-7-Z2-tJw/ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bFBzzLr/20240812-184048.png" group-title=group-title="Entertainment", AMAR DIGITAL 
+https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1m0bGGS/20240803-102251.png" group-title=group-title="Entertainment", KHUSHBOO BANGLA  
+https://cdn3.pishow.tv/live/283/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wcHcrGC/20240803-101812.png" group-title=group-title="Entertainment", ENTEER 10 BANGLA 
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RHN0sPn/20240803-164432.png" group-title="Entertainment", AAKASH AATH
+http://tv.cloudcdn.me/live.ts?channelId=79&uid=13433&deviceMac=00:1A:79:00:97:A1
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FmdqfLq/20240803-165015.png" group-title="Entertainment", SANANDA TV
+http://live.sanandatelevision.in:2020/sananda/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j6PbJKP/20240803-101833.png" group-title="Entertainment", AMAR BANGLA
+https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jVzzMtq/20240803-102343.png" group-title="Entertainment", RUPOSHI BANGLA
+https://cdn3.pishow.tv/live/281/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3mCr1q1/20240803-102358.png" group-title="Entertainment", ABP ANANDA 
+https://abplivetv.akamaized.net/hls/live/2043012/ananda/master_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CPbRHng/20240803-164315.png" group-title="Entertainment", ZEE 24 GHONTA 
+https://utube.buddyxiptv.com/@Zee24Ghanta.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4Tsm5B4/20240803-102413.png" group-title="Entertainment", TV9 BANGLA
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8KWhDV6/20240803-102743.png" group-title="KIDS CHANNEL", DURONTO TV HD
+http://tv.cloudcdn.me/live.ts?channelId=74553&uid=13433&deviceMac=00:1A:79:00:97:A1
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s544wN3/20240812-184634.png" group-title="KIDS CHANNEL", KIDS CARTOON
+https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yBYRgLt/20240813-063955.png" group-title="KIDS CHANNEL", RONGEEN TV
+http://lifetvbd.xyz:8080/play/MJjp2AuZQlq-gE09eDufj6qr-osZMVIJv_2Ls5iSurY/ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zmDWZfN/20240813-063935.png" group-title="KIDS CHANNEL", NICKELODEON BANGLA
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BENGALI | BANGLA", BANGLA CINEMA 1 HD 
-https://allinonereborn.tech/doordarshan.m3u8?id=20757
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BENGALI | BANGLA", BANGLA THRILLER CINEMA HD 
-https://allinonereborn.tech/doordarshan.m3u8?id=20762
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BENGALI | BANGLA", BANGLA FAMILY CINEMA HD 
-https://allinonereborn.tech/doordarshan.m3u8?id=20662
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BENGALI | BANGLA", BANGLA DRAMA CINEMA HD 
-https://allinonereborn.tech/doordarshan.m3u8?id=20667
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BENGALI | BANGLA", BANGLA ROMANCE CINEMA 1 HD 
-https://allinonereborn.tech/doordarshan.m3u8?id=20692
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BENGALI | BANGLA", BANGLA CLASSIC FAMILY HD 
-https://allinonereborn.tech/doordarshan.m3u8?id=20672
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BENGALI | BANGLA", BANGLA ACTION CINEMA 1 HD 
-https://allinonereborn.tech/doordarshan.m3u8?id=20682
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BENGALI | BANGLA", BANGLA 2020-2022 CINEMA HD 
-https://allinonereborn.tech/doordarshan.m3u8?id=20687
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BENGALI | BANGLA", BANGLA CLASSIC CINEMA 1 HD 
-https://allinonereborn.tech/doordarshan.m3u8?id=20677
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BENGALI | BANGLA", BANGLA CLASSIC ACTION DRAMA CINEMA HD 
-https://allinonereborn.tech/doordarshan.m3u8?id=20737
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BENGALI | BANGLA", BANGLA COMEDY CINEMA HD 
-https://allinonereborn.tech/doordarshan.m3u8?id=20747
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BENGALI | BANGLA", BANGLA CRIME CINEMA HD 
-https://allinonereborn.tech/doordarshan.m3u8?id=20707
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BENGALI | BANGLA", BENGALI EROSNOW CLASSIC CINEMA 1 
-https://allinonereborn.tech/doordarshan.m3u8?id=20697
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BENGALI | BANGLA", BENGALI CLASSIC ROMANCE CINEMA HD 
-https://allinonereborn.tech/doordarshan.m3u8?id=20702
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BENGALI | BANGLA", BENGALI CLASSIC DRAMA CINEMA HD 
-https://allinonereborn.tech/doordarshan.m3u8?id=20717
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BENGALI | BANGLA", BENGALI COMEDY CINEMA HD 
-https://allinonereborn.tech/doordarshan.m3u8?id=20712
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BENGALI | BANGLA", BENGALI ACTION CINEMA HD 
-https://allinonereborn.tech/doordarshan.m3u8?id=20722
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BENGALI | BANGLA", BENGALI CRIME CINEMA HD 
-https://allinonereborn.tech/doordarshan.m3u8?id=20742
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BENGALI | BANGLA", BENGALI DRAMA CINEMA HD 
-https://allinonereborn.tech/doordarshan.m3u8?id=20727
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BENGALI | BANGLA", BENGALI FAMILY CINEMA HD 
-https://allinonereborn.tech/doordarshan.m3u8?id=20752
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BENGALI | BANGLA", BENGALI MYSTERY CINEMA HD 
-https://allinonereborn.tech/doordarshan.m3u8?id=20732
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="BENGALI | BANGLA",NON STOP BENGALI SONGS 
-https://allinonereborn.tech/doordarshan.m3u8?id=5857
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="BENGALI | BANGLA",TATA SKY BANGLA CINEMA 4K 
-https://allinonereborn.tech/doordarshan.m3u8?id=3912
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="BENGALI | BANGLA",BANGLA TALKIES 
-https://allinonereborn.tech/doordarshan.m3u8?id=11397
-#EXTINF:-1 tvg-id="in_starjalshahd.in" tvg-logo="" group-title="BENGALI | BANGLA",STAR JALSHA 4K 
-https://allinonereborn.tech/doordarshan.m3u8?id=7799
-#EXTINF:-1 tvg-id="in_starjalshahd.in" tvg-logo="" group-title="BENGALI | BANGLA",STAR JALSHA FHD 
-https://allinonereborn.tech/doordarshan.m3u8?id=5616
-#EXTINF:-1 tvg-id="in_starjalshahd.in" tvg-logo="" group-title="BENGALI | BANGLA",STAR JALSHA USA 4K 
-https://allinonereborn.tech/doordarshan.m3u8?id=10160
-#EXTINF:-1 tvg-id="in_starjalshahd.in" tvg-logo="" group-title="BENGALI | BANGLA",STAR JALSHA USA FHD 
-https://allinonereborn.tech/doordarshan.m3u8?id=3975
-#EXTINF:-1 tvg-id="in_starjalshahd.in" tvg-logo="" group-title="BENGALI | BANGLA",STAR JALSHA UK 
-https://allinonereborn.tech/doordarshan.m3u8?id=5617
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="BENGALI | BANGLA",STAR JALSHA MOVIES 
-https://allinonereborn.tech/doordarshan.m3u8?id=686
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="BENGALI | BANGLA",STAR JALSHA MOVIES 4K 
-https://allinonereborn.tech/doordarshan.m3u8?id=7803
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="BENGALI | BANGLA",ZEE BANGLA 4K 
-https://allinonereborn.tech/doordarshan.m3u8?id=7791
-#EXTINF:-1 tvg-id="in_zeebanglahd.in" tvg-logo="" group-title="BENGALI | BANGLA",ZEE BANGLA HD 
-https://allinonereborn.tech/doordarshan.m3u8?id=5618
-#EXTINF:-1 tvg-id="in_zeebanglahd.in" tvg-logo="" group-title="BENGALI | BANGLA",ZEE BANGLA 4K USA 
-https://allinonereborn.tech/doordarshan.m3u8?id=10153
-#EXTINF:-1 tvg-id="in_zeebanglahd.in" tvg-logo="" group-title="BENGALI | BANGLA",ZEE BANGLA USA 
-https://allinonereborn.tech/doordarshan.m3u8?id=3976
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="BENGALI | BANGLA",ZEE BANGLA UK 
-https://allinonereborn.tech/doordarshan.m3u8?id=5619
-#EXTINF:-1 tvg-id="in_zeebanglacinema.in" tvg-logo="" group-title="BENGALI | BANGLA",ZEE BANGLA CINEMA 
-https://allinonereborn.tech/doordarshan.m3u8?id=3969
-#EXTINF:-1 tvg-id="in_colorsbanglahd.in" tvg-logo="" group-title="BENGALI | BANGLA",COLORS BANGLA 4K 
-https://allinonereborn.tech/doordarshan.m3u8?id=7795
-#EXTINF:-1 tvg-id="in_colorsbanglahd.in" tvg-logo="" group-title="BENGALI | BANGLA",COLORS BANGLA HD 
-https://allinonereborn.tech/doordarshan.m3u8?id=5615
-#EXTINF:-1 tvg-id="in_colorsbanglahd.in" tvg-logo="" group-title="BENGALI | BANGLA",COLORS BANGLA USA 4K 
-https://allinonereborn.tech/doordarshan.m3u8?id=10167
-#EXTINF:-1 tvg-id="in_colorsbanglahd.in" tvg-logo="" group-title="BENGALI | BANGLA",COLORS BANGLA USA 
-https://allinonereborn.tech/doordarshan.m3u8?id=3974
-#EXTINF:-1 tvg-id="in_colorsbanglahd.in" tvg-logo="" group-title="BENGALI | BANGLA",COLORS BANGLA UK 
-https://allinonereborn.tech/doordarshan.m3u8?id=10174
-#EXTINF:-1 tvg-id="in_sonyaath.in" tvg-logo="" group-title="BENGALI | BANGLA",SONY AATH HD 
-https://allinonereborn.tech/doordarshan.m3u8?id=3161
-#EXTINF:-1 tvg-id="in_sonyaath.in" tvg-logo="" group-title="BENGALI | BANGLA",SONY AATH USA 
-https://allinonereborn.tech/doordarshan.m3u8?id=5620
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1b4NB4N/20240813-063839.png" group-title="KIDS CHANNEL", NICKELODEON HINDI
+http://lifetvbd.xyz:8080/play/MJjp2AuZQlq-gE09eDufj2eqXQ4kbWO_t_Bw8n8VZbQ/ts
 
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: STAR JALSHA" tvg-logo="" group-title="AS BANGLA",BANGLA: STAR JALSHA
-http://sansat.net:25461/02028857936892/0751169096/100642
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: STAR JALSHA HD" tvg-logo="" group-title="AS BANGLA",BANGLA: STAR JALSHA HD
-http://sansat.net:25461/02028857936892/0751169096/100722
-#EXTINF:-1 tvg-id="starjalsha.in" tvg-logo=""1090 group-title="Bangla",Star Jalsha 
-https://allinonereborn.in/allinone.php?id=54161
-#EXTINF:-1 tvg-id="starjalsha.in" tvg-logo=""1139 group-title="Bangla",Star Jalsha-USA 
-https://allinonereborn.in/allinone.php?id=55387
-#EXTINF:-1 tvg-id="starjalsha.in" tvg-logo=""2769 group-title="Bangla",Star Jalsha India 
-https://allinonereborn.in/allinone.php?id=53734
-#EXTINF:-1 tvg-id="starjalsha.in" tvg-logo=""3019 group-title="Bangla",Star Jalsha UK 
-https://allinonereborn.in/allinone.php?id=56878
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: ZEE BANGLA" tvg-logo="" group-title="AS BANGLA",BANGLA: ZEE BANGLA
-http://sansat.net:25461/02028857936892/0751169096/100707
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: ZEE BANGLA HD" tvg-logo="" group-title="AS BANGLA",BANGLA: ZEE BANGLA HD
-http://sansat.net:25461/02028857936892/0751169096/100716
-#EXTINF:-1 tvg-id="zeebanglahd.in" tvg-logo=""725.png" group-title="Bangla",Zee Bangla-USA 
-https://allinonereborn.in/allinone.php?id=55602
-#EXTINF:-1 tvg-id="zeebanglahd.in" tvg-logo=""4978 group-title="Bangla",Zee Bangla HD -India 1 
-https://allinonereborn.in/allinone.php?id=57961
-#EXTINF:-1 tvg-id="zeebanglahd.in" tvg-logo=""553 group-title="Bangla",Zee Bangla HD-India 2 
-https://allinonereborn.in/allinone.php?id=56934
-#EXTINF:-1 tvg-id="zeebanglahd.in" tvg-logo=""5267.png" group-title="Bangla",Zee Bangla UK 
-https://allinonereborn.in/allinone.php?id=57943
-#EXTINF:-1 tvg-id="I779.72738.schedulesdirect.org" tvg-logo=""200.png" group-title="Bangla",Colors Bangla-USA 
-https://allinonereborn.in/allinone.php?id=45634
-#EXTINF:-1 tvg-id="" tvg-logo=""896.png" group-title="Bangla",Colors Bangla 
-https://allinonereborn.in/allinone.php?id=45649
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: COLORS BANGLA" tvg-logo="" group-title="AS BANGLA",BANGLA: COLORS BANGLA
-http://sansat.net:25461/02028857936892/0751169096/100665
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: COLORS BANGLA" tvg-logo="" group-title="AS BANGLA",BANGLA: COLORS BANGLA
-http://sansat.net:25461/02028857936892/0751169096/100639
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: SONY AATH" tvg-logo="" group-title="AS BANGLA",BANGLA: SONY AATH
-http://sansat.net:25461/02028857936892/0751169096/100696
-#EXTINF:-1 tvg-id="I781.68253.schedulesdirect.org" tvg-logo=""592 group-title="Bangla",Sony Aath 
-https://allinonereborn.in/allinone.php?id=49609
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: JALSHA MOVIES" tvg-logo="" group-title="AS BANGLA",BANGLA: JALSHA MOVIES
-http://sansat.net:25461/02028857936892/0751169096/100697
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: JALSHA MOVIES" tvg-logo="" group-title="AS BANGLA",BANGLA: JALSHA MOVIES
-http://sansat.net:25461/02028857936892/0751169096/100641
-#EXTINF:-1 tvg-id="" tvg-logo=""921 group-title="Bangla",Star Jalsha Movies 
-https://allinonereborn.in/allinone.php?id=33659
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: ZEE BANGLA CINEMA" tvg-logo="" group-title="AS BANGLA",BANGLA: ZEE BANGLA CINEMA
-http://sansat.net:25461/02028857936892/0751169096/100702
-#EXTINF:-1 tvg-id="" tvg-logo=""774 group-title="Bangla",Zee Bangla Cinema 
-https://allinonereborn.in/allinone.php?id=56727
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: MOVIE BANGLA" tvg-logo="" group-title="AS BANGLA",BANGLA: MOVIE BANGLA
-http://sansat.net:25461/02028857936892/0751169096/100682
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: BONGO MOVIES" tvg-logo="" group-title="AS BANGLA",BANGLA: BONGO MOVIES
-http://sansat.net:25461/02028857936892/0751169096/100699
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: ENTER 10 BANGLA" tvg-logo="" group-title="AS BANGLA",BANGLA: ENTER 10 BANGLA
-http://sansat.net:25461/02028857936892/0751169096/100759
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: SUN BANGLA" tvg-logo="" group-title="AS BANGLA",BANGLA: SUN BANGLA
-http://sansat.net:25461/02028857936892/0751169096/100754
-#EXTINF:-1 tvg-id="" tvg-logo=""2242 group-title="Bangla",Sun TV Bangla 
-https://allinonereborn.in/allinone.php?id=56723
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: DESHI TV" tvg-logo="" group-title="AS BANGLA",BANGLA: DESHI TV
-http://sansat.net:25461/02028857936892/0751169096/100670
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: ZEE 24 GHANTA" tvg-logo="" group-title="AS BANGLA",BANGLA: ZEE 24 GHANTA
-http://sansat.net:25461/02028857936892/0751169096/100640
-#EXTINF:-1 tvg-id="" tvg-logo=""627.png" group-title="Bangla",Aakaash 
-https://allinonereborn.in/allinone.php?id=45704
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: AAKAASH BANGLA" tvg-logo="" group-title="AS BANGLA",BANGLA: AAKAASH BANGLA
-http://sansat.net:25461/02028857936892/0751169096/100643
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: ABP ANANDA" tvg-logo="" group-title="AS BANGLA",BANGLA: ABP ANANDA
-http://sansat.net:25461/02028857936892/0751169096/100646
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nP2SPDj/20240812-183713.png" group-title="KIDS CHANNEL", NICKELODEON HD+
+http://119.156.26.155:8000/play/a07i/19263073.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SrVqxD0/image-Content-390-j5jpps1s-m1.png" group-title="KIDS CHANNEL", NICKELODEON JUNIOR 
+http://lifetvbd.xyz:8080/play/MJjp2AuZQlq-gE09eDufj61sav6QydCKgUvGEb9ioxo/ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8rzSwnH/20240803-101416.png" group-title="KIDS CHANNEL", NICKELODEON SONIC
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="BENGALI | BANGLA",DEEN TV 
-https://allinonereborn.tech/doordarshan.m3u8?id=25314
-#EXTINF:-1 tvg-id="uk_atnbangla.uk" tvg-logo="" group-title="BENGALI | BANGLA",ATN BANGLA 
-https://allinonereborn.tech/doordarshan.m3u8?id=3153
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="BENGALI | BANGLA",KHUSHBOO 
-https://allinonereborn.tech/doordarshan.m3u8?id=3160
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="BENGALI | BANGLA",ATN NEWS 
-https://allinonereborn.tech/doordarshan.m3u8?id=3175
-#EXTINF:-1 tvg-id="in_islamchannel.uk" tvg-logo="" group-title="BENGALI | BANGLA",ATN ISLAM HD 
-https://allinonereborn.tech/doordarshan.m3u8?id=3149
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="BENGALI | BANGLA",T SPORTS 
-https://allinonereborn.tech/doordarshan.m3u8?id=9285
-#EXTINF:-1 tvg-id="in_foxlifehd.in" tvg-logo="" group-title="BENGALI | BANGLA",FOX LIFE 
-https://allinonereborn.tech/doordarshan.m3u8?id=8460
-#EXTINF:-1 tvg-id="in_discoveryhd.in" tvg-logo="" group-title="BENGALI | BANGLA",DISCOVERY WORLD 
-https://allinonereborn.tech/doordarshan.m3u8?id=8464
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="BENGALI | BANGLA",SUN BANGLA HD 
-https://allinonereborn.tech/doordarshan.m3u8?id=5846
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="BENGALI | BANGLA",BTV BANGLA 
-https://allinonereborn.tech/doordarshan.m3u8?id=3145
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="BENGALI | BANGLA",BTV CHATTGRAM 
-https://allinonereborn.tech/doordarshan.m3u8?id=3966
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="BENGALI | BANGLA",BTV NATIONAL 
-https://allinonereborn.tech/doordarshan.m3u8?id=5849
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="BENGALI | BANGLA",BTV WORLD 
-https://allinonereborn.tech/doordarshan.m3u8?id=5850
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="BENGALI | BANGLA",CHANNEL S UK 
-https://allinonereborn.tech/doordarshan.m3u8?id=5848
-#EXTINF:-1 tvg-id="in_tsbanglacinema.in" tvg-logo="" group-title="BENGALI | BANGLA",MOVIE BANGLA 
-https://allinonereborn.tech/doordarshan.m3u8?id=3181
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="BENGALI | BANGLA",NRB BANGLA HD 
-https://allinonereborn.tech/doordarshan.m3u8?id=3164
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="BENGALI | BANGLA",BANGLA VISION 4K 
-https://allinonereborn.tech/doordarshan.m3u8?id=3137
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="BENGALI | BANGLA",EKATTOR TV 4K 
-https://allinonereborn.tech/doordarshan.m3u8?id=3146
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="BENGALI | BANGLA",INDIA NEWS BANGLA 
-https://allinonereborn.tech/doordarshan.m3u8?id=3156
-#EXTINF:-1 tvg-id="in_disneychannel.in" tvg-logo="" group-title="BENGALI | BANGLA",CHANNEL I 4K 
-https://allinonereborn.tech/doordarshan.m3u8?id=3173
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="BENGALI | BANGLA",GAZI TV 4K 
-https://allinonereborn.tech/doordarshan.m3u8?id=3914
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="BENGALI | BANGLA",MAASRANGA TV 4K 
-https://allinonereborn.tech/doordarshan.m3u8?id=3971
-#EXTINF:-1 tvg-id="in_suntvhd.in" tvg-logo="" group-title="BENGALI | BANGLA",NTV BANGLA 
-https://allinonereborn.tech/doordarshan.m3u8?id=3188
-#EXTINF:-1 tvg-id="in_suntvhd.in" tvg-logo="" group-title="BENGALI | BANGLA",NTV BANGLA USA 
-https://allinonereborn.tech/doordarshan.m3u8?id=3295
-#EXTINF:-1 tvg-id="in_24ghante.in" tvg-logo="" group-title="BENGALI | BANGLA",ZEE 24 GHANTA 
-https://allinonereborn.tech/doordarshan.m3u8?id=4081
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="BENGALI | BANGLA",NEXUS TV 
-https://allinonereborn.tech/doordarshan.m3u8?id=8472
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="BENGALI | BANGLA",DESHE BIDESHE 
-https://allinonereborn.tech/doordarshan.m3u8?id=1696
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="BENGALI | BANGLA",MOHONA TV 
-https://allinonereborn.tech/doordarshan.m3u8?id=3172
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="BENGALI | BANGLA",SOMOY NEWS 
-https://allinonereborn.tech/doordarshan.m3u8?id=3184
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="BENGALI | BANGLA",DBC NEWS 4K 
-https://allinonereborn.tech/doordarshan.m3u8?id=3168
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="BENGALI | BANGLA",NEWS 24 4K 
-https://allinonereborn.tech/doordarshan.m3u8?id=3140
-#EXTINF:-1 tvg-id="in_news18bangla.in" tvg-logo="" group-title="BENGALI | BANGLA",NEWS 18 BANGLA 
-https://allinonereborn.tech/doordarshan.m3u8?id=879
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="BENGALI | BANGLA",CALCUTTA NEWS 
-https://allinonereborn.tech/doordarshan.m3u8?id=5853
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="BENGALI | BANGLA",R PLUS 
-https://allinonereborn.tech/doordarshan.m3u8?id=11400
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="BENGALI | BANGLA",R PLUS GOLD 
-https://allinonereborn.tech/doordarshan.m3u8?id=11403
-#EXTINF:-1 tvg-id="in_tv9.in" tvg-logo="" group-title="BENGALI | BANGLA",TV9 BANGLA 
-https://allinonereborn.tech/doordarshan.m3u8?id=11420
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="BENGALI | BANGLA",REPUBLIC BANGLA 
-https://allinonereborn.tech/doordarshan.m3u8?id=11423
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="BENGALI | BANGLA",ROSE TV 
-https://allinonereborn.tech/doordarshan.m3u8?id=11417
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="BENGALI | BANGLA",DESH TV 
-https://allinonereborn.tech/doordarshan.m3u8?id=3141
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="BENGALI | BANGLA",EKUSHEY TV 
-https://allinonereborn.tech/doordarshan.m3u8?id=3152
-#EXTINF:-1 tvg-id="in_indfilmchannel.ca" tvg-logo="" group-title="BENGALI | BANGLA",INDEPENDENT TV 
-https://allinonereborn.tech/doordarshan.m3u8?id=3185
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="BENGALI | BANGLA",RTV 4K 
-https://allinonereborn.tech/doordarshan.m3u8?id=3147
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="BENGALI | BANGLA",CHANNEL 24 HD 
-https://allinonereborn.tech/doordarshan.m3u8?id=3171
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="BENGALI | BANGLA",JAMUNA 
-https://allinonereborn.tech/doordarshan.m3u8?id=3182
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="BENGALI | BANGLA",BIJOY TV 4K 
-https://allinonereborn.tech/doordarshan.m3u8?id=3177
-#EXTINF:-1 tvg-id="in_vissatv.in" tvg-logo="" group-title="BENGALI | BANGLA",SATV 4K 
-https://allinonereborn.tech/doordarshan.m3u8?id=3154
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="BENGALI | BANGLA",BOISHAKHI TV 4K 
-https://allinonereborn.tech/doordarshan.m3u8?id=3144
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="BENGALI | BANGLA",AZAN TV 
-https://allinonereborn.tech/doordarshan.m3u8?id=5613
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="BENGALI | BANGLA",CHANNEL S 
-https://allinonereborn.tech/doordarshan.m3u8?id=3135
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="BENGALI | BANGLA",DESHI TV 
-https://allinonereborn.tech/doordarshan.m3u8?id=3174
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="BENGALI | BANGLA",NAGORIK 4K 
-https://allinonereborn.tech/doordarshan.m3u8?id=5614
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="BENGALI | BANGLA",PROTIDIN TIME 
-https://allinonereborn.tech/doordarshan.m3u8?id=3163
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="BENGALI | BANGLA",BISWA BANGLA 24 
-https://allinonereborn.tech/doordarshan.m3u8?id=3151
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="BENGALI | BANGLA",DURONTO TV 
-https://allinonereborn.tech/doordarshan.m3u8?id=3189
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="BENGALI | BANGLA",CNN BANGLA 
-https://allinonereborn.tech/doordarshan.m3u8?id=3186
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="BENGALI | BANGLA",ASIAN TV 4K 
-https://allinonereborn.tech/doordarshan.m3u8?id=3169
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="BENGALI | BANGLA",CHANNEL 9 4K 
-https://allinonereborn.tech/doordarshan.m3u8?id=3162
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="BENGALI | BANGLA",DEEPTO TV 4K 
-https://allinonereborn.tech/doordarshan.m3u8?id=3183
-#EXTINF:-1 tvg-id="in_sangeetbangla.in" tvg-logo="" group-title="BENGALI | BANGLA",GAAN BANGLA TV 4K 
-https://allinonereborn.tech/doordarshan.m3u8?id=3967
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="BENGALI | BANGLA",MY TV 
-https://allinonereborn.tech/doordarshan.m3u8?id=3178
-#EXTINF:-1 tvg-id="natgeowild.in" tvg-logo="" group-title="BENGALI | BANGLA",NAT GEO HD 
-https://allinonereborn.tech/doordarshan.m3u8?id=654
-#EXTINF:-1 tvg-id="in_aakashaath.in" tvg-logo="" group-title="BENGALI | BANGLA",AAKASH 
-https://allinonereborn.tech/doordarshan.m3u8?id=1029
-#EXTINF:-1 tvg-id="in_sangeetbangla.in" tvg-logo="" group-title="BENGALI | BANGLA",SANGEET BANGLA 
-https://allinonereborn.tech/doordarshan.m3u8?id=789
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="BENGALI | BANGLA",THE CHANNEL TV 
-https://allinonereborn.tech/doordarshan.m3u8?id=5621
-#EXTINF:-1 tvg-id="in_abpananda.in" tvg-logo="" group-title="BENGALI | BANGLA",ANANDA TV 
-https://allinonereborn.tech/doordarshan.m3u8?id=3943
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="BENGALI | BANGLA",DHOOM MUSIC 
-https://allinonereborn.tech/doordarshan.m3u8?id=3139
-#EXTINF:-1 tvg-id="in_rupashibangla.in" tvg-logo="" group-title="BENGALI | BANGLA",RUPASI BANGLA 
-https://allinonereborn.tech/doordarshan.m3u8?id=3187
-#EXTINF:-1 tvg-id="in_ddbangla.in" tvg-logo="" group-title="BENGALI | BANGLA",DD BANGLA 
-https://allinonereborn.tech/doordarshan.m3u8?id=1030
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="BENGALI | BANGLA",TBN 24 HD 
-https://allinonereborn.tech/doordarshan.m3u8?id=5350
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="BENGALI | BANGLA",MTA BANGLA 
-https://allinonereborn.tech/doordarshan.m3u8?id=5654
-#EXTINF:-1 tvg-id="in_chardiklatimetv.in" tvg-logo="" group-title="BENGALI | BANGLA",TIME TV 
-https://allinonereborn.tech/doordarshan.m3u8?id=3296
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="BENGALI | BANGLA",PEACE TV BANGLA 
-https://allinonereborn.tech/doordarshan.m3u8?id=3150
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="BENGALI | BANGLA",IQURA BANGALI 
-https://allinonereborn.tech/doordarshan.m3u8?id=3167
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="BENGALI | BANGLA",ALIF TV 4K 
-https://allinonereborn.tech/doordarshan.m3u8?id=5845
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="BENGALI | BANGLA",BANGLA TV 4K 
-https://allinonereborn.tech/doordarshan.m3u8?id=5856
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="BENGALI | BANGLA",BANGLA TIME 
-https://allinonereborn.tech/doordarshan.m3u8?id=8468
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="BENGALI | BANGLA",NANDAN TV 
-https://allinonereborn.tech/doordarshan.m3u8?id=5852
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="BENGALI | BANGLA",SANGSAD BANGLA 
-https://allinonereborn.tech/doordarshan.m3u8?id=5854
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="BENGALI | BANGLA",ENTER 10 BANGLA 
-https://allinonereborn.tech/doordarshan.m3u8?id=5855
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="BENGALI | BANGLA",CN NEWS 
-https://allinonereborn.tech/doordarshan.m3u8?id=8476
-#EXTINF:-1 tvg-id="in_abpananda.in" tvg-logo="" group-title="BENGALI | BANGLA",ABP ANANDA 
-https://allinonereborn.tech/doordarshan.m3u8?id=8480
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="BENGALI | BANGLA",I TV 
-https://allinonereborn.tech/doordarshan.m3u8?id=8484
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="BENGALI | BANGLA",IQRA TV 
-https://allinonereborn.tech/doordarshan.m3u8?id=8488
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="BENGALI | BANGLA",MILLENIUM TV 
-https://allinonereborn.tech/doordarshan.m3u8?id=8492
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="BENGALI | BANGLA",NEWSDAILY 24 BENGALI 
-https://allinonereborn.tech/doordarshan.m3u8?id=8496
-#EXTINF:-1 tvg-id="uk_madanichannel.uk" tvg-logo="" group-title="BENGALI | BANGLA",MADANI BANGLA 
-https://allinonereborn.tech/doordarshan.m3u8?id=11406
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="BENGALI | BANGLA",TELEFILM 
-https://allinonereborn.tech/doordarshan.m3u8?id=11409
-#EXTINF:-1 tvg-id="glotv" tvg-logo="" group-title="BENGALI | BANGLA",RTV MUSIC 4K 
-https://allinonereborn.tech/doordarshan.m3u8?id=6795
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ys79Yrg/20240803-101434.png" group-title="KIDS CHANNEL", SONY YAY
+http://103.151.60.174/test2028
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1vMwvc6/20240803-103957.png" group-title="KIDS CHANNEL", WOW KIDS 
+http://tv.cloudcdn.me/live.ts?channelId=91169&uid=13433&deviceMac=00:1A:79:00:97:A1
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/82r3MtN/image-Content-11161-j99h67u8-m1.png" group-title="KIDS CHANNEL", CARTOON NETWORK HD
+https://fmrx.short.gy/cartoon_network.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wc95cbY/20240803-103733.png" group-title="KIDS CHANNEL", POGO
+https://fmrx.short.gy/Pogo.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F3XcWbG/20240803-103747.png" group-title="KIDS CHANNEL", GUBBARE
+https://epiconvh.s.llnwi.net/gubbare/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GtzCDKM/20240803-163809.png" group-title="KIDS CHANNEL", HUNGAMA
+http://119.156.26.155:8000/play/a05t/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3StFQMy/20240803-163853.png" group-title="KIDS CHANNEL", MOTU PATLU
+https://fmrx.short.gy/bdixiptvhub/offline.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/br8260j/20240803-103819.png" group-title="KIDS CHANNEL", DISCOVARY KIDS 
+https://dplus.gammacdn.workers.dev/videos/113.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8PfZWZW/image-Content-1356-j5tdnwmw-m1.png" group-title="KIDS CHANNEL", DISNEY CARTOON HD
+http://119.156.26.155:8000/play/a05u/98093283.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L58W5JY/20240812-183727.png" group-title="KIDS CHANNEL", DISNEY JUNIOR
+http://119.156.26.155:8000/play/a05x/46822361.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xsj6qFg/20240802-195019.png" group-title="BD | CHANNEL", BTV HD
+http://lifetvbd.xyz:8080/play/MJjp2AuZQlq-gE09eDufjzdQt4qLNx6s2gP41mlfYx4/ts
 
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: TITASH TV" tvg-logo="" group-title="AS BANGLA",BANGLA: TITASH TV
-http://sansat.net:25461/02028857936892/0751169096/100644
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: NAGORIK TV" tvg-logo="" group-title="AS BANGLA",BANGLA: NAGORIK TV
-http://sansat.net:25461/02028857936892/0751169096/100645
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kXxW24s/20240802-195055.png" group-title="BD | CHANNEL", BTV CHATTAGRAM 
+http://lifetvbd.xyz:8080/play/MJjp2AuZQlq-gE09eDufj1HvPVUWDooQRgWjLSTYuPA/ts
 
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: BTV" tvg-logo="" group-title="AS BANGLA",BANGLA: BTV
-http://sansat.net:25461/02028857936892/0751169096/100659
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: BTV WORLD" tvg-logo="" group-title="AS BANGLA",BANGLA: BTV WORLD
-http://sansat.net:25461/02028857936892/0751169096/100658
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: ATN BANGLA" tvg-logo="" group-title="AS BANGLA",BANGLA: ATN BANGLA
-http://sansat.net:25461/02028857936892/0751169096/100648
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: ATN NEWS" tvg-logo="" group-title="AS BANGLA",BANGLA: ATN NEWS
-http://sansat.net:25461/02028857936892/0751169096/100650
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: BANGLA ETV" tvg-logo="" group-title="AS BANGLA",BANGLA: ETV BANGLA
-http://sansat.net:25461/02028857936892/0751169096/100651
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: BIJOY TV" tvg-logo="" group-title="AS BANGLA",BANGLA: BIJOY TV
-http://sansat.net:25461/02028857936892/0751169096/100655
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: ATN ISLAMIC TV" tvg-logo="" group-title="AS BANGLA",BANGLA: ATN ISLAMIC TV
-http://sansat.net:25461/02028857936892/0751169096/100656
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: BOISHAKHI TV" tvg-logo="" group-title="AS BANGLA",BANGLA: BOISHAKHI TV
-http://sansat.net:25461/02028857936892/0751169096/100657
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: CHANNEL 9" tvg-logo="" group-title="AS BANGLA",BANGLA: CHANNEL 9
-http://sansat.net:25461/02028857936892/0751169096/100661
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: CHANNEL I" tvg-logo="" group-title="AS BANGLA",BANGLA: CHANNEL I
-http://sansat.net:25461/02028857936892/0751169096/100663
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: CHANNEL S" tvg-logo="" group-title="AS BANGLA",BANGLA: CHANNEL S
-http://sansat.net:25461/02028857936892/0751169096/100664
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: DBC NEWS" tvg-logo="" group-title="AS BANGLA",BANGLA: DBC NEWS
-http://sansat.net:25461/02028857936892/0751169096/100666
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: DD BANGLA" tvg-logo="" group-title="AS BANGLA",BANGLA: DD BANGLA
-http://sansat.net:25461/02028857936892/0751169096/100667
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: DESH TV" tvg-logo="" group-title="AS BANGLA",BANGLA: DESH TV
-http://sansat.net:25461/02028857936892/0751169096/100668
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: DESHE BIDESHE TV" tvg-logo="" group-title="AS BANGLA",BANGLA: DESHE BIDESHE TV
-http://sansat.net:25461/02028857936892/0751169096/100669
+#EXTINF:-1 tvg-logo="https://i.ibb.co/StvvSTV/20240802-195551.png" group-title="BD | CHANNEL", SANGSAD TV
+https://fmrx.short.gy/bdixiptvhub/offline.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: DHOOM MUSIC" tvg-logo="" group-title="AS BANGLA",BANGLA: DHOOM MUSIC
-http://sansat.net:25461/02028857936892/0751169096/100671
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: EKATTOR TV" tvg-logo="" group-title="AS BANGLA",BANGLA: EKATTOR TV
-http://sansat.net:25461/02028857936892/0751169096/100673
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: ETV BANGLA" tvg-logo="" group-title="AS BANGLA",BANGLA: ETV BANGLA
-http://sansat.net:25461/02028857936892/0751169096/100674
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: GAAN BANGLA" tvg-logo="" group-title="AS BANGLA",BANGLA: GAAN BANGLA
-http://sansat.net:25461/02028857936892/0751169096/100676
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: INDEPENDENT TV" tvg-logo="" group-title="AS BANGLA",BANGLA: INDEPENDENT TV
-http://sansat.net:25461/02028857936892/0751169096/100677
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: iTV" tvg-logo="" group-title="AS BANGLA",BANGLA: iTV
-http://sansat.net:25461/02028857936892/0751169096/100678
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: MASRANGA TV" tvg-logo="" group-title="AS BANGLA",BANGLA: MASRANGA TV
-http://sansat.net:25461/02028857936892/0751169096/100679
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: MILLENNIUM TV" tvg-logo="" group-title="AS BANGLA",BANGLA: MILLENNIUM TV
-http://sansat.net:25461/02028857936892/0751169096/100680
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: MOHONA TV" tvg-logo="" group-title="AS BANGLA",BANGLA: MOHONA TV
-http://sansat.net:25461/02028857936892/0751169096/100681
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MDRQdxW/20240802-195715.png" group-title="BD | CHANNEL", ATN BANGLA
+http://lifetvbd.xyz:8080/play/MJjp2AuZQlq-gE09eDufjz-PpGvsjw-dFkLTfZN1XkI/ts
 
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: NEWS TIME" tvg-logo="" group-title="AS BANGLA",BANGLA: NEWS TIME
-http://sansat.net:25461/02028857936892/0751169096/100685
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: NRB TV" tvg-logo="" group-title="AS BANGLA",BANGLA: NRB TV
-http://sansat.net:25461/02028857936892/0751169096/100686
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: NTV" tvg-logo="" group-title="AS BANGLA",BANGLA: NTV
-http://sansat.net:25461/02028857936892/0751169096/100687
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: RTV" tvg-logo="" group-title="AS BANGLA",BANGLA: RTV
-http://sansat.net:25461/02028857936892/0751169096/100690
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: RUPOSHI BANGLA" tvg-logo="" group-title="AS BANGLA",BANGLA: RUPOSHI BANGLA
-http://sansat.net:25461/02028857936892/0751169096/100691
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: SANGEET BANGLA" tvg-logo="" group-title="AS BANGLA",BANGLA: SANGEET BANGLA
-http://sansat.net:25461/02028857936892/0751169096/100692
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: SATV" tvg-logo="" group-title="AS BANGLA",BANGLA: SATV
-http://sansat.net:25461/02028857936892/0751169096/100693
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: KTV BANGLA" tvg-logo="" group-title="AS BANGLA",BANGLA: KTV BANGLA
-http://sansat.net:25461/02028857936892/0751169096/100694
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: SOMOY NEWS TV" tvg-logo="" group-title="AS BANGLA",BANGLA: SOMOY NEWS TV
-http://sansat.net:25461/02028857936892/0751169096/100695
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ybp62SV/20240802-201430.png" group-title="BD | CHANNEL", CHANNEL I HD
+https://utube.buddyxiptv.com/@channelinews.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: TIME TELEVISION" tvg-logo="" group-title="AS BANGLA",BANGLA: TIME TELEVISION
-http://sansat.net:25461/02028857936892/0751169096/100700
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: TV ASIA" tvg-logo="" group-title="AS BANGLA",BANGLA: TV ASIA
-http://sansat.net:25461/02028857936892/0751169096/100701
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hyctQsw/20240802-200031.png" group-title="BD | CHANNEL", EKUSHEY TV
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: ATN BANGLA USA" tvg-logo="" group-title="AS BANGLA",BANGLA: ATN BANGLA USA
-http://sansat.net:25461/02028857936892/0751169096/100703
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: DEEPTO TV HD" tvg-logo="" group-title="AS BANGLA",BANGLA: DEEPTO TV HD
-http://sansat.net:25461/02028857936892/0751169096/100704
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: NEWS 24 HD" tvg-logo="" group-title="AS BANGLA",BANGLA: NEWS 24 HD
-http://sansat.net:25461/02028857936892/0751169096/100706
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qpnTc92/20240803-012251.png" group-title="BD | CHANNEL", NTV
+https://utube.buddyxiptv.com/@NTVDigitalLive.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: JAMUNA TV" tvg-logo="" group-title="AS BANGLA",BANGLA: JAMUNA TV
-http://sansat.net:25461/02028857936892/0751169096/100710
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: RTV MUSIC" tvg-logo="" group-title="AS BANGLA",BANGLA: RTV MUSIC
-http://sansat.net:25461/02028857936892/0751169096/100711
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p3DbP7V/20240802-200227.png" group-title="BD | CHANNEL", RTV HD
+https://utube.buddyxiptv.com/@RtvNews.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: JONMOBHUMI TV" tvg-logo="" group-title="AS BANGLA",BANGLA: JONMOBHUMI TV
-http://sansat.net:25461/02028857936892/0751169096/100719
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: MADANI TV BANGLA" tvg-logo="" group-title="AS BANGLA",BANGLA: MADANI TV BANGLA
-http://sansat.net:25461/02028857936892/0751169096/100720
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YcRhXPy/20240802-200400.png" group-title="BD | CHANNEL", BOISHAKHI TV HD
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: NANDAN TV HD" tvg-logo="" group-title="AS BANGLA",BANGLA: NANDAN TV HD
-http://sansat.net:25461/02028857936892/0751169096/100728
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: ANANDA TV" tvg-logo="" group-title="AS BANGLA",BANGLA: ANANDA TV
-http://sansat.net:25461/02028857936892/0751169096/100732
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: JHANKAR TV" tvg-logo="" group-title="AS BANGLA",BANGLA: JHANKAR TV
-http://sansat.net:25461/02028857936892/0751169096/100734
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: NAN TV" tvg-logo="" group-title="AS BANGLA",BANGLA: NAN TV
-http://sansat.net:25461/02028857936892/0751169096/100742
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: FAMILY TV" tvg-logo="" group-title="AS BANGLA",BANGLA: FAMILY TV
-http://sansat.net:25461/02028857936892/0751169096/100743
-#EXTINF:-1 tvg-ID="" tvg-name=" DISCOVERY HD BENGALI" tvg-logo="" group-title="AS BANGLA", DISCOVERY HD BENGALI
-http://sansat.net:25461/02028857936892/0751169096/100753
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YtGFZw3/20240802-200509.png" group-title="BD | CHANNEL", BANGLA VISION HD
+http://tv.cloudcdn.me/live.ts?channelId=84&uid=8164&deviceMac=00:1A:79:17:D4:A1
 
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: TBN 24" tvg-logo="" group-title="AS BANGLA",BANGLA: TBN 24
-http://sansat.net:25461/02028857936892/0751169096/100756
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: iTV UK" tvg-logo="" group-title="AS BANGLA",BANGLA: iTV UK
-http://sansat.net:25461/02028857936892/0751169096/100757
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kxkf3M9/20240802-200605.png" group-title="BD | CHANNEL", DESH TV
+https://utube.buddyxiptv.com/@livedeshtv.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: CHANNEL TT" tvg-logo="" group-title="AS BANGLA",BANGLA: CHANNEL TT
-http://sansat.net:25461/02028857936892/0751169096/100760
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PspYHX7/20240802-201706.png" group-title="BD | CHANNEL", MY TV HD
+https://mytvbangla.com/0.m3u8
 
-#EXTINF:-1 tvg-id="PPV.19.schedulesdirect.org" tvg-logo=""5744 group-title="Kids",All Time Hit Kids Movie 
-https://allinonereborn.in/allinone.php?id=52704
-#EXTINF:-1 tvg-id="I176.60048.schedulesdirect.org" tvg-logo=""5674.png" group-title="Kids",NickToons USA 
-https://allinonereborn.in/allinone.php?id=49294
-#EXTINF:-1 tvg-id="I169.19211.schedulesdirect.org" tvg-logo=""636 group-title="Kids",Nick Jr USA 
-https://allinonereborn.in/allinone.php?id=47084
-#EXTINF:-1 tvg-id="I176.60048.schedulesdirect.org" tvg-logo=""193 group-title="Kids",Cartoon Network USA 
-https://allinonereborn.in/allinone.php?id=48839
-#EXTINF:-1 tvg-id="" tvg-logo=""2372.png" group-title="Kids",Nickelodeon USA 
-https://allinonereborn.in/allinone.php?id=14008
-#EXTINF:-1 tvg-id="I175.21883.schedulesdirect.org" tvg-logo=""5719.png" group-title="Kids",Boomerang USA 
-https://allinonereborn.in/allinone.php?id=49439
-#EXTINF:-1 tvg-id="I1652.97315.schedulesdirect.org" tvg-logo=""4063.png" group-title="Kids",Disney XD USA 
-https://allinonereborn.in/allinone.php?id=49304
-#EXTINF:-1 tvg-id="I173.12510.schedulesdirec" tvg-logo=""1528 group-title="Kids",Disney East USA 
-https://allinonereborn.in/allinone.php?id=52914
-#EXTINF:-1 tvg-id="I173.12510.schedulesdirect.org" tvg-logo=""1024.png" group-title="Kids",Disney West USA 
-https://allinonereborn.in/allinone.php?id=52919
-#EXTINF:-1 tvg-id="I180.59615.schedulesdirect.org" tvg-logo=""278 group-title="Kids",Freeform 
-https://allinonereborn.in/allinone.php?id=49299
-#EXTINF:-1 tvg-id="I170.11006.schedulesdirect.org" tvg-logo=""48 group-title="Kids",Nickelodeon UK 
-https://allinonereborn.in/allinone.php?id=10866
-#EXTINF:-1 tvg-id="disneyjunior.uk" tvg-logo=""197 group-title="Kids",Disney Jr UK 
-https://allinonereborn.in/allinone.php?id=52949
-#EXTINF:-1 tvg-id="nickjunior.uk" tvg-logo=""1076 group-title="Kids",Nick Jr UK 
-https://allinonereborn.in/allinone.php?id=6696
-#EXTINF:-1 tvg-id="cartoonnetwork.uk" tvg-logo=""2170 group-title="Kids",Cartoon Network UK 
-https://allinonereborn.in/allinone.php?id=11450
-#EXTINF:-1 tvg-id="boomerang.uk" tvg-logo=""196 group-title="Kids",Boomerang UK 
-https://allinonereborn.in/allinone.php?id=53229
-#EXTINF:-1 tvg-id="I623.48542.schedulesdirect.org" tvg-logo=""195 group-title="Kids",Baby TV UK 
-https://allinonereborn.in/allinone.php?id=42298
-#EXTINF:-1 tvg-id="disneychannel.uk" tvg-logo=""1453 group-title="Kids",Disney Channel UK 
-https://allinonereborn.in/allinone.php?id=52794
-#EXTINF:-1 tvg-id="disneychannel.uk" tvg-logo=""1119.png" group-title="Kids",Disney XD UK 
-https://allinonereborn.in/allinone.php?id=35393
-#EXTINF:-1 tvg-id="I553.17639.schedulesdirect.org" tvg-logo=""1015 group-title="Kids",Tree House 
-https://allinonereborn.in/allinone.php?id=48284
-#EXTINF:-1 tvg-id="I1646.70827.schedulesdirect.org" tvg-logo=""4788.png" group-title="Kids",YTV HD 
-https://allinonereborn.in/allinone.php?id=49104
-#EXTINF:-1 tvg-id="" tvg-logo=""5404 group-title="Kids",PBS Kids 
-https://allinonereborn.in/allinone.php?id=49369
-#EXTINF:-1 tvg-id="I265.10119.schedulesdirect.org" tvg-logo=""" group-title="Kids",TVO kids 
-https://allinonereborn.in/allinone.php?id=53579
-#EXTINF:-1 tvg-id="cartoonnetworkhd.in" tvg-logo=""5609 group-title="Bangla",Cartoon Network India 
-https://allinonereborn.in/allinone.php?id=48799
-#EXTINF:-1 tvg-id="sonicnickelodeon.in" tvg-logo=""2824.png" group-title="Bangla",Nick HD + India 
-https://allinonereborn.in/allinone.php?id=39933
-#EXTINF:-1 tvg-id="sonyyay.in" tvg-logo=""3073 group-title="Kids",Sony Yay! India
-https://allinonereborn.in/allinone.php?id=34198
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2tvxRzw/20240730-221042.png" group-title="BD | CHANNEL", ATN NEWS
+ttps://utube.buddyxiptv.com/@atnnewsltd.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/V9LQgC1/20240802-201215.png" group-title="BD | CHANNEL", MOHONA TV 
+http://tv.cloudcdn.me/live.ts?channelId=103&uid=8164&deviceMac=00:1A:79:17:D4:A1
 
-#EXTINF:-1 tvg-logo="https://od.lk/s/MjFfMzQ3MjcwNTdf/Godzilla.vs.Kong.2021.png" group-title="Hollywood Movies",Godzilla_vs_Kong
-http://www.dropbox.com/s/ddp8kkkty4tmmg1/Godzilla_vs_Kong_%282021%29_WEBRip_high_%28fzmovies.net%29_c27b204d74ed71ec3ad5a6c094f78ae8.mp4?dl=1
-#EXTINF:-1 tvg-logo="https://od.lk/s/MjFfMzQ3NTU5NTZf/Zack.Snyders.Justice.League.2021.png" group-title="Hollywood Movies",Zack_Snyders_Justice_League
-http://www.dropbox.com/s/qtiquq15rl90zg4/Zack_Snyders_Justice_League_%282021%29.mp4?dl=1
-#EXTINF:-1 tvg-logo="https://od.lk/s/MjFfMzQ3NTYwNDJf/Raya.and.the.Last.Dragon.2021.png" group-title="Hollywood Movies",Raya_and_the_Last_Dragon (2021)
-http://www.dropbox.com/s/cdnzx290mgt0rhz/Raya_and_the_Last_Dragon_%282021%29.mp4?dl=1
-#EXTINF:-1 tvg-logo="https://od.lk/s/MjFfMzQ5NDU0ODBf/Mortal.Kombat.2021.png" group-title="Hollywood Movies",Mortal_Kombat_2021
-http://www.dropbox.com/s/q9mhszk77dgubg2/Mortal_Kombat_2021.mp4?dl=1
-#EXTINF:-1 tvg-logo="https://od.lk/s/MjFfMzQ5NDU2MTBf/take_back_2021.png" group-title="Hollywood Movies",take_back_2021
-http://www.dropbox.com/s/iqogrso83zt93n2/take_back_2021.mp4?dl=0
-#EXTINF:-1 tvg-logo="https://od.lk/s/MjFfMzQ5NDU3OTRf/blindsided_night_of_the_sicario_2021.png" group-title="Hollywood Movies",blindsided_night_of_the_sicario_2021
-http://www.dropbox.com/s/7w5c04h747pvk1g/blindsided_night_of_the_sicario_2021.mp4?dl=1
-#EXTINF:-1 tvg-logo="https://od.lk/s/MjFfMzQ5NDU4Nzlf/lazarus.png" group-title="Hollywood Movies",lazarus_2021
-http://www.dropbox.com/s/9ogif9ofcufv7n1/lazarus%202021.mp4?dl=0
-#EXTINF:-1 tvg-logo="https://od.lk/s/MjFfMzQ5NDU5NTJf/outside%20the%20wire" group-title="Hollywood Movies",blindsided_night_of_the_sicario_2021
-https://www.dropbox.com/s/bvjc3vxoum79dic/outside%20the%20wire%202021.mp4?dl=1
-#EXTINF:-1 tvg-logo="https://wallpapercave.com/download/annabelle-film-wallpapers-wp2083279?nocache=1" group-title="Hollywood Movies",Annabelle: Creation (2017)
-http://cdnvod.setv.ca/hls/Annabelle.2.Creation.2017.720p.BluRay.H264.AAC-RARBG.mp4/master.m3u8
-#EXTINF:-1 tvg-logo="https://wallpapercave.com/download/godzilla-planet-of-the-monsters-wallpapers-wp4825169?nocache=1" group-title="Hollywood Movies",Godzilla: Planet of the Monsters (2017)
-https://archive.org/download/GodzillaMonsterPlanet/Godzilla%20Monster%20Planet.mp4
-#EXTINF:-1 tvg-logo="https://od.lk/s/MjFfMzQ5NDYwNjFf/Wish%20Upon%202017.png" group-title="Hollywood Movies",Wish Upon (2017)
-http://cdnvod.setv.ca/hls/Wish.Upon.2017.UNRATED.BDRip.x264-DRONES.mp4/master.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MjFfMzQ5NDYwNzJf/Wonder%20Woman%202017.png" group-title="Hollywood Movies",Wonder Woman (2017)
-http://deadlyblogger.com/NewRelease/wonderwoman.mp4
-#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",Colossal (2016)
-http://ia601501.us.archive.org/22/items/LaMaravillasDeLaVida201702/LaMaravillasDeLaVida2017_02.mp4
-#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",X-Men: Apocalypse (2016)
-http://deadlyblogger.com/NewRelease/xmen2016.mp4
-#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",The Transporter Refueled (2015)
-http://archive.org/download/TheTransporterRefueled20151080pBluRayX264DTSJYK/The%20Transporter%20Refueled%202015%201080p%20BluRay%20x264%20DTS-JYK.mp4
-#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",Guardians of the Galaxy (2014)
-http://deadlyblogger.com/NewRelease/guardians2014.mp4
-#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",John Wick (2014)
-http://deadlyblogger.com/NewRelease/johnwick.mp4
-#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",Ride Along (2014)
-http://www.deadlyblogger.com/NewRelease/ridealong2014.mp4
-#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",The Amazing Spider-Man 2 (2014)
-http://www.deadlyblogger.com/NewRelease/amazin2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",47 Ronin
-http://www.deadlyblogger.com/NewRelease/47ronin.mp4
-#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",After Earth
-http://www.deadlyblogger.com/NewRelease/after.mp4
-#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",Escape Plan
-http://www.deadlyblogger.com/NewRelease/escapeplan2013.mp4
-#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",Furious 6
-http://www.deadlyblogger.com/NewRelease/fast6.mp4
-#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",Killing Season
-http://www.deadlyblogger.com/NewRelease/killings.mp4
-#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",Man of Steel
-http://www.deadlyblogger.com/NewRelease/steel.mp4
-#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",Now You See Me
-http://www.deadlyblogger.com/NewRelease/nowyouseeme.mp4
-#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",Olympus Has Fallen
-http://www.deadlyblogger.com/NewRelease/fallen1.mp4
-#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",Prisoners
-http://www.deadlyblogger.com/NewRelease/prisoners.mp4
-#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",Runner Runner
-http://www.deadlyblogger.com/NewRelease/runnerrunner.mp4
-#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",The Conjuring
-http://www.deadlyblogger.com/NewRelease/conjuring.mp4
-#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",The Mortal Instruments: City of Bones
-http://www.deadlyblogger.com/NewRelease/themort1.mp4
-#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",The Wolverine
-http://www.deadlyblogger.com/NewRelease/thewolverine.mp4
-#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",World War Z
-http://www.deadlyblogger.com/NewRelease/world.mp4
-#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",Men in Black 3
-http://www.deadlyblogger.com/NewRelease/mnb3.mp4
-#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",Project X
-http://www.deadlyblogger.com/NewRelease/projectx.mp4
-#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",Safe House
-http://www.deadlyblogger.com/NewRelease/safehouse.mp4
-#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",The Bourne Legacy
-http://www.deadlyblogger.com/NewRelease/bourne4.mp4
-#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",Wrong Turn 5: Bloodlines
-http://www.deadlyblogger.com/NewRelease/wrongturn5.mp4
-#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",Rise of the Planet of the Apes
-http://www.deadlyblogger.com/NewRelease/apes7.mp4
-#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",Transformers: Dark of the Moon
-http://www.deadlyblogger.com/NewRelease/transformers3.mp4
-#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",Saw 3D - The Final Chapter
-http://www.deadlyblogger.com/NewRelease/saw7.mp4
-#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",Unstoppable
-http://www.deadlyblogger.com/NewRelease/unstoppable.mp4
-#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",Fast & Furious
-http://www.deadlyblogger.com/NewRelease/fast4.mp4
-#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",Land of the Lost
-http://www.deadlyblogger.com/NewRelease/landlost.mp4
-#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",Transformers: Revenge of the Fallen
-http://www.deadlyblogger.com/NewRelease/transformers2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",Wrong Turn 3 - Left for Dead
-http://www.deadlyblogger.com/NewRelease/wrongturn3.mp4
-#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",X-Men Origins: Wolverine
-http://www.deadlyblogger.com/NewRelease/origin.mp4
-#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",Iron Man
-http://www.deadlyblogger.com/NewRelease/ironman1.mp4
-#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",Transformers (2007)
-http://www.deadlyblogger.com/NewRelease/transformers1.mp4
-#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",The Fast and the Furious - Tokyo Drift (2006)
-http://www.deadlyblogger.com/NewRelease/fast3.mp4
-#EXTINF:0 tvg-id="avi" group-title="VOD BARAT",Bloodshot (2020)
-https://ewr1.vultrobjects.com/dwa/PTXVtSDHRlGsp/hls-stream.m3u
-#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",X-Men: The Last Stand (2006)
-http://www.deadlyblogger.com/NewRelease/xmen3.mp4
-#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",Fast 2 Furious (2003)
-http://www.deadlyblogger.com/NewRelease/fast2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",Bad Boys II (2003)
-http://www.deadlyblogger.com/NewRelease/badboys2.mp4
-#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",Malibu's Most Wanted (2003)
-http://www.deadlyblogger.com/NewRelease/malibu1.mp4
-#EXTINF:-1 tvg-logo="" group-title="Hollywood Movies",The Lord of the Rings: The Return of the King (2003)
-http://www.deadlyblogger.com/NewRelease/returnking1.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YyC5Y61/20240802-202044.png" group-title="BD | CHANNEL", BIJOY TV
+http://opplextv.cyou:8080/live/773199/626227/245946.ts
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bX4tt98/20240730-222351.png" group-title="BD | CHANNEL", SOMOY TV
+https://utube.buddyxiptv.com/@somoynews360.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pnhgXKc/20240730-222525.png" group-title="BD | CHANNEL", INDEPENDENT NEWS
+https://utube.buddyxiptv.com/@IndependentTelevision.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BC19FZ0/20240802-202241.png" group-title="BD | CHANNEL", MAASRANGA TV
+https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s6Wy1BB/20240802-202527.png" group-title="BD | CHANNEL", CHANNEL 9 
+http://tv.cloudcdn.me/live.ts?channelId=88&uid=8164&deviceMac=00:1A:79:17:D4:A1
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WGhT9Z9/20240730-225044.png" group-title="BD | CHANNEL", CHANNEL 24
+https://utube.buddyxiptv.com/@channel24digital.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Nx6DCPW/20240802-202841.png" group-title="BD | CHANNEL", GAZI TV 
+http://lifetvbd.xyz:8080/play/MJjp2AuZQlq-gE09eDufj5A_sk7626hm59cZjjhWhBA/ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JKHS9Gr/20240730-224923.png" group-title="BD | CHANNEL", EKATTOR TV 
+https://utube.buddyxiptv.com/@EkattorTelevision.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gwG7QP2/20240802-201123.png" group-title="BD | CHANNEL", ASIAN TV HD
+https://mtlivestream.com/asian/ytlive/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fDGPbGJ/20240802-203018.png" group-title="BD | CHANNEL", SA TV HD
+https://entezeetv.fun/bdcast/hls/index.m3u8?id=1938a86s&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L6V3Gsh/20240802-204557.png" group-title="BD | CHANNEL", GAAN BANGLA HD
+http://tv.cloudcdn.me/live.ts?channelId=97&uid=13433&deviceMac=00:1A:79:00:97:A1
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fQTkSP7/20240730-234013.png" group-title="BD | CHANNEL", JAMUNA TELEVISION 
+https://utube.buddyxiptv.com/@JamunaTVbd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LP1hGbC/20240802-213720.png" group-title="BD | CHANNEL", DEEPTO TV HD
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mTMhZTj/20240730-225116.png" group-title="BD | CHANNEL", DBC NEWS HD
+https://utube.buddyxiptv.com/@dbcnewstv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jtwns3g/20240802-202447.png" group-title="BD | CHANNEL", NEWS 24 HD
+https://utube.buddyxiptv.com/@dailynews24x7daily.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4WPBSTG/20240802-213751.png" group-title="BD | CHANNEL", NAGORIK TV
+http://lifetvbd.xyz:8080/play/MJjp2AuZQlq-gE09eDufjxUzojqbEe7BB8SOvJeQpqc/ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dDvdR4q/20240803-012316.png" group-title="BD | CHANNEL", BANGLA TV
+https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sK8hLwL/20240813-112843.png" group-title="BD | CHANNEL", BANGLA TV EUROPE
+https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pfD0D6Q/20240802-214550.png" group-title="BD | CHANNEL", ANANDA TV
+http://lifetvbd.xyz:8080/play/MJjp2AuZQlq-gE09eDufj1txxzW2c-aJhFyDB2I6kzg/ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vHk2GMz/20240802-214221.png" group-title="BD | CHANNEL", MOVIE BANGLA 
+http://alvetv.com/moviebanglatv/8080/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q1YN5rx/20240802-213810.png" group-title="BD | CHANNEL", NEXUS TV
+http://lifetvbd.xyz:8080/play/MJjp2AuZQlq-gE09eDufj5sQLoxLUouH6qD5ksXzrLA/ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/344z9dp/20240730-225945.png" group-title="BD | CHANNEL", EKHON TV
+http://lifetvbd.xyz:8080/play/MJjp2AuZQlq-gE09eDufjyU0yg86NxBXAxsBq4K30lE/ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YW800mn/20240802-214656.png" group-title="BD | CHANNEL", GLOBAL TV
+http://lifetvbd.xyz:8080/play/MJjp2AuZQlq-gE09eDufj6T_w_m7AVQJvPBebrOSZbI/ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k91GLhy/20240812-183952.png" group-title="BD | CHANNEL",GREEN TV
+http://lifetvbd.xyz:8080/play/MJjp2AuZQlq-gE09eDufj2icYP81VfFp1CBke7nhUPs/ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M2c3xyF/20240813-113539.png" group-title="BD | CHANNEL", CHANNEL S HD
+https://amigofx.com:1936/channelsreporter/channelsreporter/playlist.m3u8
 
 
 
