@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6rNftPN/20240813-112448.png" group-title="Entertainment", STAR JALSHA HD
 http://217.20.112.199/starjalshahd/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Jalsha.png"group-title="Indian Bangla Channel",Star Jalsha HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Jalsha.png"group-title="Entertainment",Star Jalsha HD
 http://tv.cloudcdn.me/live.ts?channelId=116&uid=8164&deviceMac=00:1A:79:17:D4:A1
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VQhCpkh/20240803-102008.png" group-title="Entertainment", STAR JALSHA FHD
@@ -10,7 +10,7 @@ http://103.151.60.174/manikvai@hoichoi24.com
 
 #EXTINF:-1 tvg-id="625" tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/zee-bangla.png" group-Bengali;"Entertainment",Zee Bangla
 https://jio.dinesh29.com.np/live/jio-universal/zee-bangla/index.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="Indian Bangla Channel",Zee Bangla HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="Entertainment",Zee Bangla HD
 http://tv.cloudcdn.me:80/live.ts?channelId=120&uid=13556&deviceMac=00:1A:79:AB:DF:A6
 #http://humsab.xyz/IN_ZEBS/index.m3u8?token=bcf250b530a295e432572e4bebeafad2
 
@@ -27,24 +27,20 @@ http://217.20.112.199/zeebangla/index.m3u8
 https://jiocinema.dinesh29.com.np/live/jiocinema-universal/colors-hd/index.ts
 #EXTINF:-1 tvg-id="756" tvg-logo="https://jiocinema.dinesh29.com.np/smart/ardinesh/logos/colors-bengla-hd.jpg" group-title="Entertainment",Colors Bengla HD
 https://jiocinema.dinesh29.com.np/live/jiocinema-universal/colors-bengla-hd/index.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png"group-title="Indian Bangla Channel",Colors Bangla HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png"group-title="Entertainment",Colors Bangla HD
 https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rzj28tJ/20240803-101916.png" group-title="Entertainment", COLORS BANGLA HD 
 http://217.20.112.199/colorsbangla/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Q8Y3PDz/20240803-101932.png" group-title="Entertainment", COLORS BANGLA FHD
 http://ekdilhai.pro/IN_ColorsBengali/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NF5M3vk/20240803-164348.png" group-title="Entertainment", COLORS BANGLA CINEMA 
-http://lifetvbd.xyz:8080/play/MJjp2AuZQlq-gE09eDufj0s9cQBOpsLnKRfE2Y-MDmY/ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png"group-title="Indian Bangla Channel",Colors Bangla Cinema
-https://jio.dinesh29.com.np/live/jio-universal/colors-bangla-cinema/index.ts
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg" group-title="Indian Bangla Channel",Enter 10 Bangla
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg" group-title="Entertainment",Enter 10 Bangla
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wcHcrGC/20240803-101812.png" group-title=group-title="Entertainment", ENTEER 10 BANGLA 
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Aath.jpeg"group-title="Indian Bangla Channel",Sony Aath
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Aath.jpeg"group-title="Entertainment",Sony Aath
 #https://tplay.dinesh29.com.np/live/tataplay-universal/sony-aath/index.ts
 #http://watchindia.net:8880/live/65181/26572/2286.ts
 http://tv.cloudcdn.me/live.ts?channelId=44150&uid=himelhimu&deviceMac=00:1A:79:A8:9C:32
@@ -53,27 +49,36 @@ http://tv.cloudcdn.me/live.ts?channelId=44150&uid=13603&deviceMac=00:1A:79:64:B4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NLNGdr9/20240813-112520.png" group-title="Entertainment", JALSHA MOVIS SD 
 https://allinonereborn.com/tatatv.php?id=232265
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bY79PVQB/images-5-28.jpg"group-title="Indian Bangla Channel",Jalsha Movies HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bY79PVQB/images-5-28.jpg"group-title="Entertainment",Jalsha Movies HD
 http://opplextv.cyou:8080/live/773199/626227/245900.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HPYdxKR/20240803-102328.png" group-title="Entertainment", JALSHA MOVIS HD
 http://humsab.xyz/IN_JALSHAMOVIES/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NF5M3vk/20240803-164348.png" group-title="Entertainment", COLORS BANGLA CINEMA 
+http://lifetvbd.xyz:8080/play/MJjp2AuZQlq-gE09eDufj0s9cQBOpsLnKRfE2Y-MDmY/ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png"group-title="Entertainment",Colors Bangla Cinema
+https://jio.dinesh29.com.np/live/jio-universal/colors-bangla-cinema/index.ts
+
 #EXTINF:-1 tvg-id="685" tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/zee-bangla-cinema.png" group-title="Entertainment",Zee Bangla Cinema
 https://jio.dinesh29.com.np/live/jio-universal/zee-bangla-cinema/index.ts
-#EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1674014677-26292078.jpg?v=8.2.4"group-title="Indian Bangla Channel",Zee Bangla Cinema 
+#EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1674014677-26292078.jpg?v=8.2.4"group-title="Entertainment",Zee Bangla Cinema 
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 tvg-id="685" tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/zee-bangla-cinema.png" group-title="Entertainment",Zee Bangla Cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/v4dhSwQ/FB-IMG-1719205388583.jpg" group-title="Indian Bangla Channel",Amar Bangla
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v4dhSwQ/FB-IMG-1719205388583.jpg" group-title="Entertainment",Amar Bangla
+https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j6PbJKP/20240803-101833.png" group-title="Entertainment", AMAR BANGLA
 https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N46NOiC.jpg" group-title="Indian Bangla Channel",Amar Digital 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N46NOiC.jpg" group-title="Entertainment",Amar Digital 
+https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bFBzzLr/20240812-184048.png" group-title=group-title="Entertainment", AMAR DIGITAL 
 https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2thQM7K/20240803-164328.png" group-title=group-title="Entertainment", SUN BANGLA
 https://fmrx.short.gy/bdixiptvhub/offline.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="Indian Bangla Channel",Sun Bangla
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="Entertainment",Sun Bangla
 http://xtv.ooo:8080/live/76223335/53332267/245906.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9p6gBtp/20240813-191607.png" group-title=group-title="Entertainment", BANGLA PLUS
@@ -82,27 +87,18 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gVj1krz/20240812-184023.png" group-title=group-title="Entertainment", DD BANGLA
 http://lifetvbd.xyz:8080/play/MJjp2AuZQlq-gE09eDufj2lBY_ZX-Fs7MG-7-Z2-tJw/ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bFBzzLr/20240812-184048.png" group-title=group-title="Entertainment", AMAR DIGITAL 
-https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1m0bGGS/20240803-102251.png" group-title=group-title="Entertainment", KHUSHBOO BANGLA  
 https://cdn3.pishow.tv/live/283/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wcHcrGC/20240803-101812.png" group-title=group-title="Entertainment", ENTEER 10 BANGLA 
-https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RHN0sPn/20240803-164432.png" group-title="Entertainment", AAKASH AATH
 http://tv.cloudcdn.me/live.ts?channelId=79&uid=13433&deviceMac=00:1A:79:00:97:A1
-#EXTINF:-56 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLStHh2dnAyRzexuxwISlK8CPWNQb09Xr4tpYGBM=s900-c-k-c0x00ffffff-no-rj" group-title="Indian Bangla Channel",Akash Aath
+#EXTINF:-56 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLStHh2dnAyRzexuxwISlK8CPWNQb09Xr4tpYGBM=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment",Akash Aath
 #http://176.119.29.52/live.ts?channelId=79&uid=5060&deviceMac=00:1A:79:73:9C:A1
 #http://sansat.net:25461/HhPRf2nAlsVeRU9/AnzgPldGC8OHsyY/100643
 http://tv.cloudcdn.me/live.ts?channelId=79&uid=8164&deviceMac=00:1A:79:17:D4:A1
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FmdqfLq/20240803-165015.png" group-title="Entertainment", SANANDA TV
 http://live.sanandatelevision.in:2020/sananda/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/j6PbJKP/20240803-101833.png" group-title="Entertainment", AMAR BANGLA
-https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jVzzMtq/20240803-102343.png" group-title="Entertainment", RUPOSHI BANGLA
 https://cdn3.pishow.tv/live/281/master.m3u8
