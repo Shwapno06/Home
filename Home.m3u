@@ -2,29 +2,32 @@
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6rNftPN/20240813-112448.png" group-title="Entertainment", STAR JALSHA HD
 http://217.20.112.199/starjalshahd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6rNftPN/20240813-112448.png" group-title="Entertainment", STAR JALSHA HD
+http://tv.cloudcdn.me/live.ts?channelId=116&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Jalsha.png"group-title="Entertainment",Star Jalsha HD
 http://tv.cloudcdn.me/live.ts?channelId=116&uid=8164&deviceMac=00:1A:79:17:D4:A1
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VQhCpkh/20240803-102008.png" group-title="Entertainment", STAR JALSHA FHD
 http://103.151.60.174/manikvai@hoichoi24.com
 
 #EXTINF:-1 tvg-id="625" tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/zee-bangla.png" group-Bengali;"Entertainment",Zee Bangla
 https://jio.dinesh29.com.np/live/jio-universal/zee-bangla/index.ts
+#EXTINF:-1 tvg-id="625" tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/zee-bangla.png" group-Bengali;"Entertainment",Zee Bangla HD
+http://tv.cloudcdn.me/live.ts?channelId=120&uid=6140&deviceMac=00:1A:79:C1:9A:8C
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="Entertainment",Zee Bangla HD
 http://tv.cloudcdn.me:80/live.ts?channelId=120&uid=13556&deviceMac=00:1A:79:AB:DF:A6
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="Entertainment",Zee Bangla HD
 #http://humsab.xyz/IN_ZEBS/index.m3u8?token=bcf250b530a295e432572e4bebeafad2
-
 #EXTINF:-1 tvg-id="1977" tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/zee-bangla-hd.png" group-Bengali;"Entertainment",Zee Bangla HD
 https://jio.dinesh29.com.np/live/jio-universal/zee-bangla-hd/index.ts
-
 #EXTINF:-1 tvg-id="625" tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/zee-bangla.png" group-Bengali;"Entertainment",Zee Bangla HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla1/default/zeebangla1-audio_208482_und=208000-video=2137600.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SN5NbMy/20240803-101952.png" group-title="Entertainment", ZEE BANGLA FHD
 http://217.20.112.199/zeebangla/index.m3u8
 
 #EXTINF:-1 tvg-id="144" tvg-logo="https://jiocinema.dinesh29.com.np/smart/ardinesh/logos/colors-hd.jpg" group-title="Entertainment",Colors Bengla
 https://jiocinema.dinesh29.com.np/live/jiocinema-universal/colors-hd/index.ts
+#EXTINF:-1 tvg-id="144" tvg-logo="https://jiocinema.dinesh29.com.np/smart/ardinesh/logos/colors-hd.jpg" group-title="Entertainment",Colors Bengla HD
+http://tv.cloudcdn.me/live.ts?channelId=92&uid=13603&deviceMac=00:1A:79:64:B4:A6
 #EXTINF:-1 tvg-id="756" tvg-logo="https://jiocinema.dinesh29.com.np/smart/ardinesh/logos/colors-bengla-hd.jpg" group-title="Entertainment",Colors Bengla HD
 https://jiocinema.dinesh29.com.np/live/jiocinema-universal/colors-bengla-hd/index.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png"group-title="Entertainment",Colors Bangla HD
@@ -47,8 +50,8 @@ http://tv.cloudcdn.me/live.ts?channelId=44150&uid=himelhimu&deviceMac=00:1A:79:A
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PMRGhZT/20240803-102021.png" group-title="Entertainment", SONY AATH HD
 http://tv.cloudcdn.me/live.ts?channelId=44150&uid=13603&deviceMac=00:1A:79:64:B4:A6
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NLNGdr9/20240813-112520.png" group-title="Entertainment", JALSHA MOVIS SD 
-https://allinonereborn.com/tatatv.php?id=232265
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NLNGdr9/20240813-112520.png" group-title="Entertainment", JALSHA MOVIS SD
+http://tv.cloudcdn.me/live.ts?channelId=117&uid=5284&deviceMac=00:1A:79:17:C0:71
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bY79PVQB/images-5-28.jpg"group-title="Entertainment",Jalsha Movies HD
 http://opplextv.cyou:8080/live/773199/626227/245900.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HPYdxKR/20240803-102328.png" group-title="Entertainment", JALSHA MOVIS HD
