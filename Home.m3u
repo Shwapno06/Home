@@ -59,6 +59,9 @@ http://opplextv.cyou:8080/live/773199/626227/245900.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HPYdxKR/20240803-102328.png" group-title="Entertainment", JALSHA MOVIS HD
 http://humsab.xyz/IN_JALSHAMOVIES/index.m3u8
 
+#EXTINF:-1 tvg-id="53584" tvg-logo="http://p1.uiop.tv/stalker_portal/misc/logos/320/7279.png" group-title="Bangla",Bengali Favorite Movie-Kolkata Diaries
+https://allinonereborn.in/allinone.php?id=53584
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NF5M3vk/20240803-164348.png" group-title="Entertainment", COLORS BANGLA CINEMA 
 http://lifetvbd.xyz:8080/play/MJjp2AuZQlq-gE09eDufj0s9cQBOpsLnKRfE2Y-MDmY/ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png"group-title="Entertainment",Colors Bangla Cinema
