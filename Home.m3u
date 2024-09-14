@@ -82,6 +82,9 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglac
 #EXTINF:-1 tvg-logo="" group-title="Entertainment", Tara Bangla Cinema
 http://103.145.48.150:90/laosat24/taratv/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vHk2GMz/20240802-214221.png" group-title="BD | CHANNEL", MOVIE BANGLA 
+http://alvetv.com/moviebanglatv/8080/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v4dhSwQ/FB-IMG-1719205388583.jpg" group-title="Entertainment",Amar Bangla
 https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j6PbJKP/20240803-101833.png" group-title="Entertainment", AMAR BANGLA
@@ -325,22 +328,14 @@ https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pfD0D6Q/20240802-214550.png" group-title="BD | CHANNEL", ANANDA TV
 http://lifetvbd.xyz:8080/play/MJjp2AuZQlq-gE09eDufj1txxzW2c-aJhFyDB2I6kzg/ts
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vHk2GMz/20240802-214221.png" group-title="BD | CHANNEL", MOVIE BANGLA 
-http://alvetv.com/moviebanglatv/8080/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q1YN5rx/20240802-213810.png" group-title="BD | CHANNEL", NEXUS TV
 http://lifetvbd.xyz:8080/play/MJjp2AuZQlq-gE09eDufj5sQLoxLUouH6qD5ksXzrLA/ts
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/344z9dp/20240730-225945.png" group-title="BD | CHANNEL", EKHON TV
 http://lifetvbd.xyz:8080/play/MJjp2AuZQlq-gE09eDufjyU0yg86NxBXAxsBq4K30lE/ts
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YW800mn/20240802-214656.png" group-title="BD | CHANNEL", GLOBAL TV
 http://lifetvbd.xyz:8080/play/MJjp2AuZQlq-gE09eDufj6T_w_m7AVQJvPBebrOSZbI/ts
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k91GLhy/20240812-183952.png" group-title="BD | CHANNEL",GREEN TV
 http://lifetvbd.xyz:8080/play/MJjp2AuZQlq-gE09eDufj2icYP81VfFp1CBke7nhUPs/ts
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M2c3xyF/20240813-113539.png" group-title="BD | CHANNEL", CHANNEL S HD
 https://amigofx.com:1936/channelsreporter/channelsreporter/playlist.m3u8
 
