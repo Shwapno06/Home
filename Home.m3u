@@ -63,7 +63,7 @@ https://allinonereborn.in/sliv.m3u8?ch=SonyAathSD&id=2011641
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "QxhBpxdJ44zlyZMvrqdcdw", "kid": "wu1n_H0ySUysFf2pKCVKZQ"}], "type": "temporary"}
 https://medialive.akash-go.com/out/v1/55589a1adc934ba584f9010ce3959f6a/index.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="KOLKATA", JALSHA MOVIES 
+#EXTINF:-1 tvg-logo="" group-title="Entertainment", JALSHA MOVIES 
 http://tv.cloudcdn.me/live.ts?channelId=117&uid=13433&deviceMac=00:1A:79:00:97:A1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NLNGdr9/20240813-112520.png" group-title="Entertainment", JALSHA MOVIS SD
 http://tv.cloudcdn.me/live.ts?channelId=117&uid=5284&deviceMac=00:1A:79:17:C0:71
