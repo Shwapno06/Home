@@ -81,6 +81,9 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglac
 #EXTINF:-1 tvg-id="685" tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/zee-bangla-cinema.png" group-title="Entertainment",Zee Bangla Cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Entertainment", Tara Bangla Cinema
+http://103.145.48.150:90/laosat24/taratv/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v4dhSwQ/FB-IMG-1719205388583.jpg" group-title="Entertainment",Amar Bangla
 https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j6PbJKP/20240803-101833.png" group-title="Entertainment", AMAR BANGLA
