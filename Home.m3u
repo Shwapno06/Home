@@ -55,6 +55,8 @@ https://allinonereborn.in/sliv.m3u8?ch=SonyAathSD&id=2011641
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NLNGdr9/20240813-112520.png" group-title="Entertainment", JALSHA MOVIS SD
 http://tv.cloudcdn.me/live.ts?channelId=117&uid=5284&deviceMac=00:1A:79:17:C0:71
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NLNGdr9/20240813-112520.png" group-title="Entertainment", JALSHA MOVIS SD
+https://medialive.akash-go.com/out/v1/a1a4886d7bdd4797a0eebb69e2c67554/index_video_7_0_2977799.mp4?m=1726050866
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bY79PVQB/images-5-28.jpg"group-title="Entertainment",Jalsha Movies HD
 http://opplextv.cyou:8080/live/773199/626227/245900.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HPYdxKR/20240803-102328.png" group-title="Entertainment", JALSHA MOVIS HD
