@@ -1,6 +1,7 @@
 #EXTM3U
 
-# All the links in this file are collected from public sources. If anyone wants to remove their source, please let us know. We respect your opinions and efforts, so we will not object to removing your source. https://www.t.me/PiratesTv_ch
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/dcx8BUs_aHDYkGkTVhHpORuF1MOHI6ZM5AdG9pe9gm9Q_atfhEuq_-mO8l1h5q8qJZzlUzWSgw=s176-c-k-c0x00ffffff-no-rj" group-title="Bangladeshi",Somoy TV News
+https://globalplay.live/fancode/proxy.php?url=https://dai.fancode.com/primary/136621_english_hls_4397dbc0cc88908ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/dcx8BUs_aHDYkGkTVhHpORuF1MOHI6ZM5AdG9pe9gm9Q_atfhEuq_-mO8l1h5q8qJZzlUzWSgw=s176-c-k-c0x00ffffff-no-rj" group-title="Bangladeshi",Somoy TV News
 https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n0MjdgkrP1eId4ysNshsCnnnlzd2j1xHYecd9XqbVRDhs=s176-c-k-c0x00ffffff-no-rj" group-title="Bangladeshi",Jamuna TV
