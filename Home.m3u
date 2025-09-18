@@ -1,5 +1,29 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Football Live
+https://tvsen6.aynaott.com/spsel1/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Star Select HD 1
+https://tvsen6.aynaott.com/spsel1/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",BT Sports 1
+http://46.105.71.222:8080/btsport1/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",BT Sports 2
+http://46.105.71.222:8080/btsport2/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",BT Sports 3
+http://46.105.71.222:8080/btsport3/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Star Sports HD1
+https://live20.bozztv.com/akamaissh101/ssh101/starsports/chunks.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Football Live
+https://tvsen6.aynaott.com/spsel1/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Star Sports
+https://live20.bozztv.com/akamaissh101/ssh101/starsports/chunks.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",T Sports
+https://tvsen6.aynaott.com/tsportsfhd/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",Willow Sports HD
+https://tvsen5.aynaott.com/willowhd/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",A Sports
+https://tvsen7.aynaott.com/asports-bkp/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Sports" group-title="",RTA Sports
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/03.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/dcx8BUs_aHDYkGkTVhHpORuF1MOHI6ZM5AdG9pe9gm9Q_atfhEuq_-mO8l1h5q8qJZzlUzWSgw=s176-c-k-c0x00ffffff-no-rj" group-title="Sports",Sony Sports 1 HD
 http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=276737&extension=.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/dcx8BUs_aHDYkGkTVhHpORuF1MOHI6ZM5AdG9pe9gm9Q_atfhEuq_-mO8l1h5q8qJZzlUzWSgw=s176-c-k-c0x00ffffff-no-rj" group-title="Sports",Sony Sports 2 HD
